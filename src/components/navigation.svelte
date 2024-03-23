@@ -1,18 +1,20 @@
-<script>
-	let isOpen = false;
-</script>
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container container-fluid">
+			<div class="navbar-brand fw-bold">Stay | Enjoy</div>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarToggler">
+				<ul class="navbar-nav  ms-auto">
+					<li class="nav-item">
+						<a class="nav-link fs-5" href="apartment-guide">Do & Don't Guide</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link fs-5" href="garbage">Trash & Recycling</a>
+					</li>
+				</ul>
+			</div>
+		</div>
 
-<header class="navbar">
-	<div class="left">
-		Stay | Enjoy
-	</div>
-	<div class="hamburger" on:click={() => isOpen = !isOpen}>
-		<div class={isOpen ? 'bar1 animateBar1' : 'bar1'}></div>
-		<div class={isOpen ? 'bar2 animateBar2' : 'bar2'}></div>
-		<div class={isOpen ? 'bar3 animateBar3' : 'bar3'}></div>
-	</div>
-</header>
-<nav class={isOpen ? 'mobileNav openDrawer' : 'mobileNav'}>
-	<a href="apartment-guide" on:click={() => isOpen = false}>Do & Don't Guide</a>
-	<a href="garbage" on:click={() => isOpen = false}>Trasch & Recycling</a>
-</nav>
+	</nav>
+

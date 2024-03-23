@@ -1,71 +1,97 @@
-<body>
-<header class="intro-box">
-	<h1 class="intro-title">Müll & Recycling.</h1>
-	<p class="intro-text padding-bottom">
-		Ihr könnt die Mülltüten in den großen Mülleimer im Hof werfen.
-		Im Hof neben dem Keller befinden sich die Mülltonnen in einem abgeschlossenen Raum.
-		Den Raum könnt ihr mit dem Schlüssel von der Haustür öffnen.
-		Da gibt es Tonnen für Biomüll, Restmüll und Papier.
-		Ihr könnt den Plastikmüll ausnahmsweise in den Restmüll werfen.
-	</p>
-</header>
-<section class="main-box">
-	<div class="group-info">
-		<div class="group-header">
-			<img class="context-image" src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-mono/128/Black-Circle-icon.png" alt="Restmüll Icon">
-			<h4 class="title-small">Restmüll</h4>
-		</div>
-		<p class="group-body">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis voluptatum ab aliquid nemo officia temporibus ut deserunt excepturi unde at, assumenda enim quas, eaque error, alias est dolor quasi aliquam!
+<div class="container">
+	<div class="row mt-3">
+		<h3>Müll & Recycling.</h3>
+	</div>
+	<div class="row mt-2 border-bottom">
+		<p>
+			Ihr könnt die Mülltüten in den großen Mülleimer im Hof werfen.
+			Im Hof neben dem Keller befinden sich die Mülltonnen in einem abgeschlossenen Raum.
+			Den Raum könnt ihr mit dem Schlüssel von der Haustür öffnen.
+			Da gibt es Tonnen für Biomüll, Restmüll und Papier.
+			Ihr könnt den Plastikmüll ausnahmsweise in den Restmüll werfen.
 		</p>
 	</div>
-	<div class="group-info">
-		<div class="group-header">
-			<img class="context-image" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-10/128/Trafficlight-green-icon.png">
-			<h4 class="title-small">Biomüll</h4>
+	<!--Biomüll-->
+	<div class="row mt-3">
+		<div class="col-auto pe-2">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="green" class="bi bi-circle-fill" viewBox="0 0 16 16">
+				<circle cx="8" cy="8" r="8"/>
+			</svg>
 		</div>
-		<p class="group-body">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis voluptatum ab aliquid nemo officia temporibus ut deserunt excepturi unde at, assumenda enim quas, eaque error, alias est dolor quasi aliquam!
+		<h4 class="col">Biomüll</h4>
+	</div>
+	<div class="row">
+		<p>
+			In die Biotonne kommen Küchenabfälle, die verrotten können. Dazu gehören Obst- und Gemüsereste,Lebensmittelreste,
+			Molkereiprodukte (Joghurt,Quark), Kaffeefilter, Teebeutel, Eierschalen, Brotreste,
+			Blumen, Pflanzenreste und kleingeschnittenes Gartenzeug wie Blätter oder Gras, Haare, Knochenreste,
+			Knüllpapier.
 		</p>
 	</div>
-	<div class="group-info">
-		<div class="group-header">
-			<img class="context-image" src="https://icons.iconarchive.com/icons/custom-icon-design/flatastic-6/128/Circle-icon.png">
-			<h4 class="title-small">Papier</h4>
-		</div>
-		<p class="group-body">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis voluptatum ab aliquid nemo officia temporibus ut deserunt excepturi unde at, assumenda enim quas, eaque error, alias est dolor quasi aliquam!
+<!--	 Restmuell-->
+	<div class="row">
+			<div class="col-auto pe-2">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="black" class="bi bi-circle-fill" viewBox="0 0 16 16">
+					<circle cx="8" cy="8" r="8"/>
+				</svg>
+			</div>
+			<h4 class="col">Restmüll</h4>
+	</div>
+	<div class="row">
+		<p>
+			Restmüll bezeichnet den Abfall, der nicht recycelt werden kann, also alles, was nicht in die anderen Mülltonnen wie für Papier, Plastik oder Bio gehört. Verwendet für schmutzigen Plastik, zum Beispiel Joghurtbecher oder Butterverpackungen, ebenfalls den Restmüll.
 		</p>
 	</div>
-	<div class="group-info">
-		<div class="group-header">
-			<img class="context-image" src="https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-flat/128/Yellow-Circle-Flat-icon.png">
-			<h4 class="title-small">Plastik.</h4>
+	<!--Papier-->
+	<div class="row">
+		<div class="col-auto pe-2">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="blue" class="bi bi-circle-fill" viewBox="0 0 16 16">
+				<circle cx="8" cy="8" r="8"/>
+			</svg>
 		</div>
-		<p class="group-body">
-			Bitte nur für subere Plastik werwenden. Auf der Insel gibt es Sammelplatz, wo man Plastik entsorgen kann. Falls ihr nur wenige Plastikteile zum Wegwerfen habt, lasst sie einfach in der Wohnung.
+		<h4 class="col">Papier</h4>
+	</div>
+	<div class="row">
+		<p>
+			In die Papiertonne gehören Papierabfälle wie Zeitungen, Zeitschriften, Bücher ohne Hardcover, Schreibpapier, Briefumschläge.
+			Entsorgt größere Kartons und Verpackungen bitte direkt auf dem Wertstoffhof / Sammelplatz (siehe Karte unten), anstatt sie in der Blauen Tonne im Hof zu hinterlassen.
 		</p>
 	</div>
-	<div class="group-info">
-		<div class="group-header">
-			<img class="context-image" src="https://icons.iconarchive.com/icons/pictogrammers/material/128/bottle-wine-icon.png">
-			<h4 class="title-small">Flaschen.</h4>
+	<!--Gelber Sack-->
+	<div class="row">
+		<div class="col-auto pe-2">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#FFDB58" class="bi bi-circle-fill" viewBox="0 0 16 16">
+				<circle cx="8" cy="8" r="8"/>
+			</svg>
 		</div>
-		<p class="group-body">
-			Auf der Insel gibt es Sammelplatz, wo man die Glasflaschen entsorgen kann.
-			Falls ihr nur einige wenige Flaschen habt, lasst sie einfach in der Wohnung.
+		<h4 class="col">Gelber Sack / Gelber Tonne</h4>
+	</div>
+	<div class="row">
+		<p>
+			Im Gelben Sack sammelt man Verpackungen, die aus Kunststoff, Metall oder Verbundmaterialien wie Getränkekartons bestehen. Dazu gehören Flaschen (aus Plastik), Becher, Folien, Dosen, Alufolien, und Konservendosen. Wichtig ist, dass diese Gegenstände leer und möglichst sauber sind.
 		</p>
 	</div>
-</section>
-<div class="map-container">
-	<h4 class="title-small margin-bottom">Wertstoff Platz (Sammelplatz)</h4>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2693.1591026135247!2d9.683364475902048!3d47.545232092213915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x479b0dd671d16873%3A0xb5c44eeef2c10ce!2sBindergasse%203%2C%2088131%20Lindau%20(Bodensee)!3m2!1d47.5464616!2d9.6856645!4m5!1s0x479b0da99227d63d%3A0xb6ccd7bb7c11587a!2sWertstoff%20Platz!3m2!1d47.5440852!2d9.6863309!5e0!3m2!1sen!2sde!4v1707333445870!5m2!1sen!2sde"
-					width="600"
-					height="450"
-					style="border:0;"
-					allowfullscreen=""
-					loading="lazy"
-					referrerpolicy="no-referrer-when-downgrade">
-	</iframe>
+	<!--Flaschen-->
+	<div class="row">
+		<div class="col-auto pe-2">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 512 512"><path d="M393.4 9.4c12.5-12.5 32.8-12.5 45.3 0l64 64c12.5 12.5 12.5 32.8 0 45.3c-11.8 11.8-30.7 12.5-43.2 1.9l-9.5 9.5-48.8 48.8c-9.2 9.2-11.5 22.9-8.6 35.6c9.4 40.9-1.9 85.6-33.8 117.5L197.3 493.3c-25 25-65.5 25-90.5 0l-88-88c-25-25-25-65.5 0-90.5L180.2 153.3c31.9-31.9 76.6-43.1 117.5-33.8c12.6 2.9 26.4 .5 35.5-8.6l48.8-48.8 9.5-9.5c-10.6-12.6-10-31.4 1.9-43.2zM99.3 347.3l65.4 65.4c6.2 6.2 16.4 6.2 22.6 0l97.4-97.4c6.2-6.2 6.2-16.4 0-22.6l-65.4-65.4c-6.2-6.2-16.4-6.2-22.6 0L99.3 324.7c-6.2 6.2-6.2 16.4 0 22.6z"/></svg>
+		</div>
+		<h4 class="col">Flaschen</h4>
+	</div>
+	<div class="row">
+		<p>
+			Die Flaschen können auf dem Wertstoff Platz / Sammelplatz entsorgt werden (siehe die Karte unten). Falls ihr nur wenige Flaschen habt, könntet ihr diese einfach in der Wohnung stehen lassen.
+		</p>
+	</div>
+	<div class="row">
+		<h4 class="mb-2">Wertstoff Platz / Sammelplatz</h4>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4241.4956412701695!2d9.680589780206875!3d47.544215248287095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b0da99227d63d%3A0xb6ccd7bb7c11587a!2sWertstoff%20Platz!5e0!3m2!1sen!2sde!4v1711201681913!5m2!1sen!2sde"
+						width="600"
+						height="450"
+						style="border:0;"
+						allowfullscreen=""
+						loading="lazy"
+						referrerpolicy="no-referrer-when-downgrade">
+		</iframe>
+	</div>
 </div>
-</body>
