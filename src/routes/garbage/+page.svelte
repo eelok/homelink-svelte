@@ -86,6 +86,7 @@
 	<div class="row">
 		<h4 class="mb-2">Wertstoff Platz / Sammelplatz</h4>
 		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4241.4956412701695!2d9.680589780206875!3d47.544215248287095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479b0da99227d63d%3A0xb6ccd7bb7c11587a!2sWertstoff%20Platz!5e0!3m2!1sen!2sde!4v1711201681913!5m2!1sen!2sde"
+						title="Map showing location of Wertstoff Platz"
 						width="600"
 						height="450"
 						style="border:0;"
