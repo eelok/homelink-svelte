@@ -14,7 +14,7 @@
 
 /* Standard display (non-retina) */
  .background-image-container {
-     background-image: url('src/images/IMG_7848_640w.jpeg'); /* Default to mobile */
+     background-image: url('images/IMG_7848_640w.jpeg'); /* Default to mobile */
      background-size: cover;
      background-position: center;
      min-height: 98vh;
@@ -23,14 +23,14 @@
 /* Tablet (e.g., devices wider than 768px) */
 @media (min-width: 768px) {
     .background-image-container {
-        background-image: url('src/images/IMG_7848_768w.jpeg');
+        background-image: url('images/IMG_7848_768w.jpeg');
     }
 }
 
 /* Desktop (e.g., devices wider than 1024px) */
 @media (min-width: 1024px) {
     .background-image-container {
-        background-image: url('src/images/IMG_7848_1024w.jpg');
+        background-image: url('images/IMG_7848_1024w.jpg');
     }
 }
 
@@ -45,20 +45,20 @@ only screen and (                min-resolution: 2dppx) /* Standard density pixe
 {
     /* Mobile retina */
     .background-image-container {
-        background-image: url('src/images/IMG_7848_640w@2x.jpeg'); /* Higher resolution image for retina */
+        background-image: url('images/IMG_7848_640w@2x.jpeg'); /* Higher resolution image for retina */
     }
 
     /* Overrides for tablet retina */
     @media (min-width: 768px) {
         .background-image-container {
-            background-image: url('src/images/IMG_7848_760w@2x.jpeg');
+            background-image: url('images/IMG_7848_760w@2x.jpeg');
         }
     }
 
     /* Overrides for desktop retina */
     @media (min-width: 1024px) {
         .background-image-container {
-            background-image: url('src/images/IMG_7848_1024w@2x.jpeg');
+            background-image: url('images/IMG_7848_1024w@2x.jpeg');
         }
     }
 }
