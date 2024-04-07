@@ -1,0 +1,70 @@
+
+.custom-margin-top {
+    margin-top: 5rem !important;
+}
+
+.text-hero {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* Standard display (non-retina) */
+ .background-image-container {
+     background-image: url('images/IMG_7848_640w.jpeg'); /* Default to mobile */
+     background-size: cover;
+     background-position: center;
+     min-height: 98vh;
+ }
+
+/* Tablet (e.g., devices wider than 768px) */
+@media (min-width: 768px) {
+    .background-image-container {
+        background-image: url('images/IMG_7848_768w.jpeg');
+    }
+}
+
+/* Desktop (e.g., devices wider than 1024px) */
+@media (min-width: 1024px) {
+    .background-image-container {
+        background-image: url('images/IMG_7848_1024w.jpg');
+    }
+}
+
+/* Retina display */
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2), /* Webkit-based browsers */
+only screen and (   min--moz-device-pixel-ratio: 2), /* Older Firefox browsers (prior to Firefox 16) */
+only screen and (     -o-min-device-pixel-ratio: 2/1), /* Older Opera browsers (11.00 to 12.00) */
+only screen and (        min-device-pixel-ratio: 2), /* Standard way */
+only screen and (                min-resolution: 192dpi), /* For devices with DPI */
+only screen and (                min-resolution: 2dppx) /* Standard density pixels */
+{
+    /* Mobile retina */
+    .background-image-container {
+        background-image: url('images/IMG_7848_640w@2x.jpeg'); /* Higher resolution image for retina */
+    }
+
+    /* Overrides for tablet retina */
+    @media (min-width: 768px) {
+        .background-image-container {
+            background-image: url('images/IMG_7848_760w@2x.jpeg');
+        }
+    }
+
+    /* Overrides for desktop retina */
+    @media (min-width: 1024px) {
+        .background-image-container {
+            background-image: url('images/IMG_7848_1024w@2x.jpeg');
+        }
+    }
+}
+
+.navbar-dark .navbar-toggler:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.25rem white;
+}
+
