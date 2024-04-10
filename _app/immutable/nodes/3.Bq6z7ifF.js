@@ -1,4 +1,4 @@
-import{s as a,n as i}from"../chunks/scheduler.Bmg8oFKD.js";import{S as h,i as u,e as d,c as l,k as c,l as o,g,d as m}from"../chunks/index.Bz31iuYP.js";function f(t){let e,r=`<h1>Willkommen in unserer Wohnung!</h1> <p>Wir freuen uns, dass ihr unsere Wohnung für euren Aufenthalt in Lindau ausgewählt habt. Wir hoffen, ihr werdet euch
+import{s as h,n as i}from"../chunks/scheduler.Bmg8oFKD.js";import{S as a,i as d,e as u,c as l,k as c,l as o,g as m,d as g}from"../chunks/index.Bz31iuYP.js";function f(t){let e,r=`<h1>Willkommen in unserer Wohnung!</h1> <p>Wir freuen uns, dass ihr unsere Wohnung für euren Aufenthalt in Lindau ausgewählt habt. Wir hoffen, ihr werdet euch
 		hier genauso wohl fühlen wie wir und wünschen euch eine wundervolle Zeit am Bodensee!</p> <h3>Anreise und Schlüssel</h3> <p>Es gibt zwei Schlüssel: einen für die Haustür und einen für die
 		Wohnungstür.
 		Der Schlüssel für die Wohnungstür hat ein rundes Ende, während der Schlüssel für die Haustür ein eckiges Ende hat.</p> <h3>Wohnung</h3> <p>Unsere Wohnung befindet sich auf der zweiten Etage von der rechten Seite. Bitte beachtet, dass das Gebäude kein
@@ -15,14 +15,7 @@ import{s as a,n as i}from"../chunks/scheduler.Bmg8oFKD.js";import{S as h,i as u,
 		der Wohnung lassen.
 		werden.</p> <p>Im Hof neben dem Keller befinden sich die Mülltonnen in einem abgeschlossenen Raum.
 		Den Raum könnt ihr mit dem Schlüssel von der Haustür öffnen.</p> <h3>Einkaufen &amp; Essen</h3> <p>Für den Einkauf empfehlen wir den Netto am Marktplatz 5 oder den Rewe in der Zeppelinstraße 6. Beide sind von 7 bis
-		20 Uhr geöffnet und sonntags und feiertags geschlossen.</p> <p>Es gibt viele gute Restaurants auf der Insel.</p> <p>Im Nachbarhaus gibt es ein gutes
-		thailändisches <a href="https://www.facebook.com/ThungthongThairestaurant.Lindau">Restaurant Thung Thong</a>, das
-		viele köstliche Gerichte anbietet.</p> <p>Die <a href="https://il-leone-pizza-bar.webador.de/">Pizzeria IL Leone</a> in der Vordere Metzgergasse 14 macht
-		leckere Pizzen.</p> <p>Wir empfehlen auch das indische <a href="https://streetkhazana.de/">Restaurant Street Khazana (Schmiedgasse 8)</a>
-		und das vietnamesische <a href="https://vinahaus-lindau.de/">Restaurant Vina Haus (Langenweg 24).</a></p> <p>Wenn ihr die regionale Küche probieren möchtet, empfehlen wir euch das
-		<a href="https://engel-lindau.de/gast-und-bierstube/">Restaurant Engel</a> (Schafgasse 4). Das
-		<a href="https://www.restaurant-zum-alten-rathaus-lindau.de/">Restaurant zum Alten Rathaus</a> (Salzgasse 2) ist
-		auch sehr gut.</p> <h3>Öffentlicher Verkehr, Ausflüge und Sehenswürdigkeiten</h3> <p>Der Bahnhof Lindau-Insel ist nur 5 Minuten zu Fuß entfernt. Von dort aus gibt es Züge nach Friedrichshafen,
+		20 Uhr geöffnet und sonntags und feiertags geschlossen.</p> <p>Es gibt viele gute <a href="/de/restaurants">Restaurants</a> in der Region.</p> <h3>Öffentlicher Verkehr, Ausflüge und Sehenswürdigkeiten</h3> <p>Der Bahnhof Lindau-Insel ist nur 5 Minuten zu Fuß entfernt. Von dort aus gibt es Züge nach Friedrichshafen,
 		München, Österreich und andere Richtungen. In der Nähe ist auch die Bushaltestelle Stadttheater. Am Hafen gibt es
 		Schiffe in die Schweiz, nach Österreich sowie
 		Rundfahrten, die leider im Winter nicht fahren.</p> <p>Wir empfehlen euch einen Ausflug nach Bregenz und von dort mit der Seilbahn auf den Pfänder. Von dort aus habt ihr
@@ -32,4 +25,4 @@ import{s as a,n as i}from"../chunks/scheduler.Bmg8oFKD.js";import{S as h,i as u,
 		anbietet.</p> <h3>Rat und Hilfe</h3> <p>Wenn ihr Fragen zur Nachbarschaft, lokalen Gegebenheiten oder zum Haus habt, zögert bitte nicht, bei unseren
 		Nachbarn Adelina und Sander zu klingeln. Ihre Wohnung befindet sich direkt gegenüber von unserer. Sie sind sehr
 		freundlich und kennen sich gut in der Gegend aus. Sie helfen euch gerne bei allen Anliegen oder Unsicherheiten.</p> <h3>Gesundheit</h3> <p>Auf der Insel gibt es viele Ärzte und Apotheken. Bei Bedarf können wir euch gerne eine Empfehlung geben.</p> <hr/> <p>Wir wünschen euch einen unvergesslichen Aufenthalt in Lindau und stehen euch bei Fragen jederzeit zur Verfügung.</p> <p>Herzliche Grüße,<br/>
-		Maria &amp; Tim</p>`;return{c(){e=d("div"),e.innerHTML=r,this.h()},l(n){e=l(n,"DIV",{class:!0,"data-svelte-h":!0}),c(e)!=="svelte-l77awq"&&(e.innerHTML=r),this.h()},h(){o(e,"class","container")},m(n,s){g(n,e,s)},p:i,i,o:i,d(n){n&&m(e)}}}class w extends h{constructor(e){super(),u(this,e,null,f,a,{})}}export{w as component};
+		Maria &amp; Tim</p>`;return{c(){e=u("div"),e.innerHTML=r,this.h()},l(n){e=l(n,"DIV",{class:!0,"data-svelte-h":!0}),c(e)!=="svelte-boe4tl"&&(e.innerHTML=r),this.h()},h(){o(e,"class","container")},m(n,s){m(n,e,s)},p:i,i,o:i,d(n){n&&g(e)}}}class k extends a{constructor(e){super(),d(this,e,null,f,h,{})}}export{k as component};
