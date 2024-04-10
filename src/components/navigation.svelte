@@ -28,6 +28,10 @@
 					'url': '/de'
 				},
 				{
+					'title': 'Restaurants',
+					'url': '/de/restaurants'
+				},
+				{
 					'title': 'Ausflüge',
 					'url': '/de/excursions'
 				},
@@ -38,7 +42,7 @@
 				{
 					'title': 'Müll & Recycling',
 					'url': '/de/garbage'
-				}
+				}				
 			]
 		}
 	}
