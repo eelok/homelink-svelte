@@ -10,6 +10,10 @@
 				{
 					'title': 'Trash & Recycling',
 					'url': '/en/garbage'
+				},
+				{
+					'title': 'Ausflüge',
+					'url': '/en/excursions'
 				}
 			]
 		},
