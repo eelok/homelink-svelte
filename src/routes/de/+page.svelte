@@ -55,26 +55,7 @@
 		20 Uhr geöffnet und sonntags und feiertags geschlossen.
 	  </p>
 	  <p>
-		Es gibt viele gute Restaurants auf der Insel.
-	  </p>
-	  <p>
-		Im Nachbarhaus gibt es ein gutes
-		thailändisches <a href="https://www.facebook.com/ThungthongThairestaurant.Lindau">Restaurant Thung Thong</a>, das
-		viele köstliche Gerichte anbietet.
-	  </p>
-	  <p>
-		Die <a href="https://il-leone-pizza-bar.webador.de/">Pizzeria IL Leone</a> in der Vordere Metzgergasse 14 macht
-		leckere Pizzen.
-	  </p>
-	  <p>
-		Wir empfehlen auch das indische <a href="https://streetkhazana.de/">Restaurant Street Khazana (Schmiedgasse 8)</a>
-		und das vietnamesische <a href="https://vinahaus-lindau.de/">Restaurant Vina Haus (Langenweg 24).</a>
-	  </p>
-	  <p>
-		Wenn ihr die regionale Küche probieren möchtet, empfehlen wir euch das
-		<a href="https://engel-lindau.de/gast-und-bierstube/">Restaurant Engel</a> (Schafgasse 4). Das
-		<a href="https://www.restaurant-zum-alten-rathaus-lindau.de/">Restaurant zum Alten Rathaus</a> (Salzgasse 2) ist
-		auch sehr gut.
+		Es gibt viele gute <a href="/de/restaurants">Restaurants</a> in der Region.
 	  </p>
 	
 	  <h3>Öffentlicher Verkehr, Ausflüge und Sehenswürdigkeiten</h3>
