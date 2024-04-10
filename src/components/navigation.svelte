@@ -22,6 +22,10 @@
 				{
 					'title': 'Müll & Recycling',
 					'url': '/de/garbage'
+				},
+				{
+					'title': 'Ausflüge',
+					'url': '/de/excursions'
 				}
 			]
 		}
