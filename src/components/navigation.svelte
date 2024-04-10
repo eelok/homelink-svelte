@@ -4,21 +4,33 @@
 		'en': {
 			'urls': [
 				{
+					'title': 'Guide',
+					'url': '/en'
+				},
+				{
+					'title': 'Ausflüge',
+					'url': '/en/excursions'
+				},
+				{
 					'title': 'Do & Don\'t Guide',
 					'url': '/en/apartment-guide'
 				},
 				{
 					'title': 'Trash & Recycling',
 					'url': '/en/garbage'
-				},
-				{
-					'title': 'Ausflüge',
-					'url': '/en/excursions'
 				}
 			]
 		},
 		'de': {
 			'urls': [
+				{
+					'title': 'Anleitung',
+					'url': '/de'
+				},
+				{
+					'title': 'Ausflüge',
+					'url': '/de/excursions'
+				},
 				{
 					'title': 'Do & Don\'t Guide',
 					'url': '/de/apartment-guide'
@@ -26,10 +38,6 @@
 				{
 					'title': 'Müll & Recycling',
 					'url': '/de/garbage'
-				},
-				{
-					'title': 'Ausflüge',
-					'url': '/de/excursions'
 				}
 			]
 		}
