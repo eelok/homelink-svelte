@@ -68,3 +68,6 @@ only screen and (                min-resolution: 2dppx) /* Standard density pixe
     box-shadow: 0 0 0 0.25rem white;
 }
 
+.container h1 {
+    margin-top: 20px;
+}

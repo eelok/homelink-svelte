@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="row mt-3">
-		<h3>Wohnung Do & Don't Guide.</h3>
+		<h3>Wohnung Navigation</h3>
 	</div>
 	<div class="row mt-2">
 		<div class="col-auto pe-2">
@@ -20,7 +20,7 @@
 			</svg>
 		</div>
 		<div class="col">
-			<p >Das WLAN-Netzwerk heißt <span class="text-bold">Martin</span>. Zugangsdaten findet ihr im Flur am Telefonregal.</p>
+			<p>Zugangsdaten fürs WLAN-Netzwerk findet ihr im Flur am Telefonregal.</p>
 		</div >
 	</div>
 <!--Rooms-->
@@ -72,17 +72,7 @@
 		<div class="col">
 			<p>Alle Zutaten zur Zubereitung von Müsli sowie alles im Kühlschrank dürft ihr gerne nutzen.</p>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-auto pe-2">
-			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red"  class="bi bi-x-lg" viewBox="0 0 16 16">
-				<path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>
-			</svg>
-		</div>
-		<div class="col">
-			<p>Messer, Töpfe und Pfannen <span class="text-bold">NICHT</span> in der Geschirrspülmaschine waschen.</p>
-		</div>
-	</div>
+	</div>	
 	<div class="row">
 		<div class="col-auto pe-2">
 			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
@@ -101,6 +91,16 @@
 		</div>
 		<div class="col">
 			<p>Waschmittel findetn ihr im Vorratsschrank im Flur.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-auto pe-2">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red"  class="bi bi-x-lg" viewBox="0 0 16 16">
+				<path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>
+			</svg>
+		</div>
+		<div class="col">
+			<p>Messer, Töpfe und Pfannen bitte <strong>NICHT</strong> in der Geschirrspülmaschine waschen.</p>
 		</div>
 	</div>
 	<!--	Badezimmer-->
@@ -164,16 +164,6 @@
 	<!--	Wohnzimmer-->
 	<div class="row mt-4 mb-2">
 		<h4>Wohnzimmer</h4>
-	</div>
-	<div class="row">
-		<div class="col-auto pe-2">
-			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red"  class="bi bi-x-lg" viewBox="0 0 16 16">
-				<path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>
-			</svg>
-		</div>
-		<div class="col">
-			<p>Auf dem Sofa <span class="text-bold">NICHT</span> essen.</p>
-		</div>
 	</div>
 	<div class="row">
 		<div class="col-auto pe-2">

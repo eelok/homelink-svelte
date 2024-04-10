@@ -1,0 +1,124 @@
+<div class="container">
+    <h1>Welcome to our apartment!</h1>
+
+    <p>We are delighted that you have chosen our apartment for your stay in Lindau. We hope you will feel as comfortable here as we do and wish you a wonderful time at Lake Constance!</p>
+
+      <h3>Arrival and keys</h3>
+      <p>
+        There are two keys: one for the front door and one for the
+        apartment door.
+        The apartment door key has a round end, while the front door key has a square end.
+      </p>
+
+      <h3>Apartment</h3>
+      <p>Our apartment is located on the second floor on the right side. Please note that the building does not have an
+        elevator, so there are a few stairs to climb.
+      </p>
+
+      <p>The apartment consists of four rooms. The following are available to you:</p>
+      <ul>
+        <li><strong>Living room:</strong> with sofa, TV, desk, and standing lamp.</li>
+        <li><strong>Dining room:</strong> with dining table, radio, chest of drawers, smart watch/speaker, and vacuum robot.</li>
+        <li><strong>Bedroom:</strong> with double bed and wardrobe. We will clear a section of the wardrobe for you
+          clean bedding and 2 sets of towels will be provided on the bed. More towels can be
+          found in the chest of drawers in the dining room.</li>
+        <li><strong>Kitchen:</strong> equipped with dishwasher, washer dryer, and coffee machine. All ingredients for
+          preparing muesli as well as everything in the fridge are at your disposal. Please do not wash knives, pots, and pans
+          in the dishwasher. Detergent for the dishwasher and the washing machine can be found in the
+          storage cabinet in the hallway.
+        </li>
+        <li><strong>Balcony:</strong> with table and two chairs. You do not need to water the plants in winter.</li>
+        <li><strong>Office:</strong> We usually use the office room for personal items and plan to lock it. However, if you need the room, we can leave it open for you. In the office, there are a desk, an office chair, and a standing lamp. The Wi-Fi printer, which you can use, is located in the hallway.</li>
+        <li><b>Bathroom and WC</b>: Extra toilet paper can be found in the bathroom cabinet.</li>
+        <li><b>Hallway:</b>: In the hallway, there is a wardrobe where you can hang your jackets and a shoe cabinet where you can store your shoes. In the wardrobe, you will also find 2 umbrellas that you are welcome to use.
+          Additionally, a vacuum cleaner and a mop are available. Please remove your shoes when entering the apartment.
+        </li>
+      </ul>
+      <h3>Wi-Fi</h3>
+      <p>The Wi-Fi network is called <strong>Martin</strong>. Access information can be found in the hallway on the phone shelf.</p>
+      <h3>Trash and Recycling</h3>
+      <p>In the kitchen, there are 3 trash bins. For organic waste and residual waste, there are two small bins under the sink. For plastic
+        and paper, there are 2 bins, which are located separately in the kitchen.
+        You can throw the trash bags into the large trash bin in the courtyard. There, you will find bins for organic waste, residual waste, and paper.
+        Unfortunately, there is no bin for plastic, but you can exceptionally throw plastic waste in the residual waste or leave it
+        in the apartment.
+      </p>
+      <p>
+        In the courtyard next to the cellar, the trash bins are located in a locked room.
+        You can open the room with the front door key.
+      </p>
+
+      <h3>Shopping & Eating</h3>
+      <p>For shopping, we recommend Netto at Marktplatz 5 or Rewe at Zeppelinstraße 6. Both are open from 7 am to
+        8 pm and are closed on Sundays and public holidays.
+      </p>
+      <p>
+        There are many good restaurants on the island.
+      </p>
+      <p>
+        In the neighboring house, there is a good
+        Thai <a href="https://www.facebook.com/ThungthongThairestaurant.Lindau">restaurant Thung Thong</a>, which
+        offers many delicious dishes.
+      </p>
+      <p>
+        The <a href="https://il-leone-pizza-bar.webador.de/">Pizzeria IL Leone</a> at Vordere Metzgergasse 14 makes
+        delicious pizzas.
+      </p>
+      <p>
+        We also recommend the Indian <a href="https://streetkhazana.de/">restaurant Street Khazana (Schmiedgasse 8)</a>
+        and the Vietnamese <a href="https://vinahaus-lindau.de/">restaurant Vina Haus (Langenweg 24).</a>
+      </p>
+      <p>
+        If you want to try regional cuisine, we recommend you
+        <a href="https://engel-lindau.de/gast-und-bierstube/">restaurant Engel</a> (Schafgasse 4). The
+        <a href="https://www.restaurant-zum-alten-rathaus-lindau.de/">restaurant Zum Alten Rathaus</a> (Salzgasse 2) is
+        also very good.
+      </p>
+
+      <h3>Public Transport, Excursions, and Attractions</h3>
+      <p>Lindau-Insel train station is only a 5-minute walk away. From there, there are trains to Friedrichshafen,
+        Munich, Austria, and other directions. Nearby is also the bus stop Stadttheater. At the harbor, there are
+        ships to Switzerland, Austria, as well
+        as tours, which unfortunately do not operate in winter.
+      </p>
+      <p>
+        We recommend a trip to Bregenz and from there by cable car to Pfänder. From there, you have
+        a great view of Lake Constance and the mountains.
+      </p>
+      <p>
+        Meersburg is also a beautiful city that you can reach by public transport or by car.
+      </p>
+      <p>
+        Lindau offers many <a href="https://www.lindau.de/lindau-entdecken/sehenswuerdigkeiten/">attractions</a>
+        and <a href="https://www.lindau.de/lindau-entdecken/bodensee/ausflugsziele-am-bodensee/">excursion destinations.</a>
+      </p>
+
+      <h3>Wellness</h3>
+      <p>
+        The <a href="https://www.therme-lindau.com/">Lindau Therme</a> is a beautiful wellness center with a sauna, and
+        swimming pool.
+      </p>
+
+      <h3>Markets</h3>
+      <p>At the small lake, there is a <a
+          href="https://www.lindau.de/veranstaltungen/wochenmarkt/1701500400/">weekly market</a>, offering regional products.
+      </p>
+
+      <h3>Advice and Help</h3>
+      <p>
+        If you have questions about the neighborhood, local conditions, or the house, please do not hesitate to ring our
+        neighbors Adelina and Sander's bell. Their apartment is located directly opposite ours. They are very
+        friendly and well acquainted with the area. They are happy to help with any concerns or uncertainties.
+      </p>
+
+
+      <h3>Health</h3>
+      <p>On the island, there are many doctors and pharmacies. If needed, we can gladly give you a recommendation.</p>
+
+      <hr />
+      <p>We wish you an unforgettable stay in Lindau and are at your disposal for any questions at any time.
+      </p>
+      <p>Warm regards,<br />
+        Maria & Tim
+      </p>
+</div>
