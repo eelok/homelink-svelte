@@ -4,7 +4,7 @@
 	<p>Wir freuen uns, dass ihr unsere Wohnung für euren Aufenthalt in Lindau ausgewählt habt. Wir hoffen, ihr werdet euch
 		hier genauso wohl fühlen wie wir und wünschen euch eine wundervolle Zeit am Bodensee!</p>
 	
-	  <h3>Anreise und Schlüssel</h3>
+	  <h3>Schlüssel</h3>
 	  <p>
 		Es gibt zwei Schlüssel: einen für die Haustür und einen für die
 		Wohnungstür.
@@ -29,7 +29,7 @@
 		  Vorratsschrank im Flur.
 		</li>
 		<li><strong>Balkon:</strong> mit Tisch und zwei Stühlen. Die Pflanzen im Winter müsst ihr nicht gießen.</li>
-		<li><strong>Büro:</strong> Wir nutzen den Büroraum üblicherweise für persönliche Gegenstände und planen, ihn abzuschließen. Solltet ihr jedoch den Raum benötigen, lassen wir ihn gerne für euch offen. Im Büro befinden sich ein Schreibtisch, ein Bürostuhl und eine Standlampe. Der WLAN-Drucker, den ihr nutzen könnt, befindet sich im Flur.</li>
+		<li><strong>Büro:</strong>Im Büro befinden sich ein Schreibtisch, ein Bürostuhl und eine Standlampe. Der WLAN-Drucker, den ihr nutzen könnt, befindet sich im Flur.</li>
 		<li><b>Badezimmer und WC</b>: Das zusätzliche Toilettenpapier findet ihr im Badezimmerschrank.</li>
 		<li><b>Flur:</b> Im Flur befindet sich ein Schrank, in dem ihr eure Jacken aufhängen könnt und eine Schuekommode, in der ihr eure Schuhe abstellen könnt. Im Schrank findet ihr auch 2 Regenschirme, die ihr gerne nutzen dürft.
 		  Außerdem stehen euch ein Staubsauger und ein Wischmopp zur Verfügung. Bitte zieht die Schuhe aus, wenn ihr die Wohnung betretet.
