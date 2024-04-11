@@ -1,5 +1,8 @@
-<script>
+<script>	
+	import { page } from '$app/stores';
 	export let lang = 'en';
+	export let currentPath = '';
+	
 	const routes = {
 		'en': {
 			'urls': [
@@ -46,6 +49,7 @@
 			]
 		}
 	}
+	$: isActive = (url) => $page.url.pathname === url;
 </script>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
@@ -68,7 +72,7 @@
 				<div class="dropdown-divider"></div>
 				{#each routes[lang].urls as route}
 				<li class="nav-item">
-					<a class="nav-link fs-5 text-white" href={route.url}>{route.title}</a>
+					<a class={`nav-link ${isActive(route.url) ? 'active' : ''}`} href={route.url}>{route.title}</a>
 				</li>
 				{/each}
 			</ul>
