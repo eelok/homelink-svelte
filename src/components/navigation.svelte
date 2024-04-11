@@ -11,6 +11,14 @@
 					'url': '/en'
 				},
 				{
+					'title': 'Coffee Machine',
+					'url': '/en/coffee-machine'
+				},
+				{
+					'title': 'Restaurants',
+					'url': '/en/restaurants'
+				}
+				{
 					'title': 'Ausflüge',
 					'url': '/en/excursions'
 				},
