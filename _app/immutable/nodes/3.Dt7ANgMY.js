@@ -1,23 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="./style.css" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-		
-		<link href="./_app/immutable/assets/0.DUEfxN0n.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.XV_XLiQR.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/entry.dP86Rsca.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.Bmg8oFKD.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.CQlFV7qq.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.Bz31iuYP.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.DTE7w1ZK.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/stores.DjvZBvyI.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/3.Dt7ANgMY.js">
-	</head>
-	<body >
-		<div style="display: contents">  <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white"><div class="container container-fluid"><a class="display-1 navbar-brand fw-bold text-white" href="/" data-svelte-h="svelte-4wg5r5">T&amp;M</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation" data-svelte-h="svelte-1k3qhe2"><span class="navbar-toggler-icon"></span></button> <div class="collapse navbar-collapse" id="navbarToggler"><ul class="navbar-nav ms-auto"><div class="dropdown-divider"></div> <li class="nav-item"><a class="nav-link active" href="/de">Willkommen</a> </li><li class="nav-item"><a class="nav-link " href="/de/coffee-machine">Kaffeemaschine</a> </li><li class="nav-item"><a class="nav-link " href="/de/restaurants">Restaurants</a> </li><li class="nav-item"><a class="nav-link " href="/de/excursions">Ausflüge</a> </li><li class="nav-item"><a class="nav-link " href="/de/garbage">Müll &amp; Recycling</a> </li></ul></div></div></nav> <div class="container" data-svelte-h="svelte-1fq77bm"><h1>Willkommen in unserer Wohnung!</h1> <p>Wir freuen uns, dass ihr unsere Wohnung für euren Aufenthalt in Lindau ausgewählt habt. Wir
+import{s as h,n as i}from"../chunks/scheduler.Bmg8oFKD.js";import{S as a,i as d,e as u,c as l,k as c,l as o,g as m,d as g}from"../chunks/index.Bz31iuYP.js";function f(t){let e,r=`<h1>Willkommen in unserer Wohnung!</h1> <p>Wir freuen uns, dass ihr unsere Wohnung für euren Aufenthalt in Lindau ausgewählt habt. Wir
 		hoffen, ihr werdet euch hier genauso wohl fühlen wie wir und wünschen euch eine wundervolle Zeit
 		am Bodensee!</p> <h3>Schlüssel</h3> <p>Es gibt zwei Schlüssel: einen für die Haustür und einen für die Wohnungstür. Der Schlüssel für
 		die Wohnungstür hat ein rundes Ende, während der Schlüssel für die Haustür ein eckiges Ende hat.</p> <h3>Wohnung</h3> <p>Unsere Wohnung befindet sich auf der zweiten Etage von der rechten Seite. Bitte beachtet, dass
@@ -49,33 +30,6 @@
 		bei unseren Nachbarn Adelina und Sander zu klingeln. Ihre Wohnung befindet sich direkt gegenüber
 		von unserer. Sie sind sehr freundlich und kennen sich gut in der Gegend aus. Sie helfen euch
 		gerne bei allen Anliegen oder Unsicherheiten.</p> <h3>Gesundheit</h3> <p>Auf der Insel gibt es viele Ärzte und Apotheken. Bei Bedarf können wir euch gerne eine
-		Empfehlung geben.</p> <hr> <p>Wir wünschen euch einen unvergesslichen Aufenthalt in Lindau und stehen euch bei Fragen
-		jederzeit zur Verfügung.</p> <p>Herzliche Grüße,<br>
-		Maria &amp; Tim</p></div> 
-			
-			<script>
-				{
-					__sveltekit_3hhfw8 = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [{"type":"data","data":null,"uses":{}},null];
-
-					Promise.all([
-						import("./_app/immutable/entry/start.XV_XLiQR.js"),
-						import("./_app/immutable/entry/app.CQlFV7qq.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 3],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+		Empfehlung geben.</p> <hr/> <p>Wir wünschen euch einen unvergesslichen Aufenthalt in Lindau und stehen euch bei Fragen
+		jederzeit zur Verfügung.</p> <p>Herzliche Grüße,<br/>
+		Maria &amp; Tim</p>`;return{c(){e=u("div"),e.innerHTML=r,this.h()},l(n){e=l(n,"DIV",{class:!0,"data-svelte-h":!0}),c(e)!=="svelte-1fq77bm"&&(e.innerHTML=r),this.h()},h(){o(e,"class","container")},m(n,s){m(n,e,s)},p:i,i,o:i,d(n){n&&g(e)}}}class k extends a{constructor(e){super(),d(this,e,null,f,h,{})}}export{k as component};
