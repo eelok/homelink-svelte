@@ -24,6 +24,10 @@
 				{
 					'title': 'Trash & Recycling',
 					'url': '/en/garbage'
+				},
+				{
+					'title': 'Before You Leave',
+					'url': '/en/departure'
 				}
 			]
 		},
