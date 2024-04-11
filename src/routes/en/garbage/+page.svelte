@@ -1,6 +1,6 @@
 <div class="container">
     <div class="row mt-3">
-        <h3>Waste & Recycling</h3>
+        <h1>Waste & Recycling</h1>
     </div>
     <div class="row mt-2 border-bottom">
         <p>

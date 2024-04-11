@@ -1,7 +1,7 @@
 <div class="container">
     <h1>Restaurants</h1>
-    <h2>Restaurants in Lindau</h2>
-    <p>There are many good restaurants on <b>Lindau Island</b>.</p>
+    <h2>Lindau</h2>
+    <p>There are many good restaurants on <b>Lindau Island</b>. In google maps you can find a lot. Here are our favourite ones.</p>
     <ul class="list-group list-group-flush">
         <li class="list-group-item"><a href="https://www.facebook.com/ThungthongThairestaurant.Lindau">Restaurant Thung Thong</a>. 
             In the neighboring building, there is a good Thai restaurant, Thung Thong, which offers many delicious Thai dishes.
