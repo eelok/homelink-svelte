@@ -55,6 +55,7 @@
 	$: isActive = (url) => $page.url.pathname === url;
 </script>
 
+{#if lang}
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
 	<div class="container container-fluid">
 		<a class="display-1 navbar-brand fw-bold text-white" href="/">T&M</a>
@@ -69,7 +70,6 @@
 		>
 			<span class="navbar-toggler-icon"></span>
 		</button>
-		{#if lang}
 		<div class="collapse navbar-collapse" id="navbarToggler">
 			<ul class="navbar-nav ms-auto">
 				<div class="dropdown-divider"></div>
@@ -80,6 +80,6 @@
 				{/each}
 			</ul>
 		</div>
-		{/if}
 	</div>
 </nav>
+{/if}
