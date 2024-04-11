@@ -6,7 +6,7 @@
 		'en': {
 			'urls': [
 				{
-					'title': 'Guide',
+					'title': 'Welcome',
 					'url': '/en'
 				},
 				{
@@ -18,12 +18,8 @@
 					'url': '/en/restaurants'
 				},
 				{
-					'title': 'Ausflüge',
+					'title': 'Excursions',
 					'url': '/en/excursions'
-				},
-				{
-					'title': 'Do & Don\'t Guide',
-					'url': '/en/apartment-guide'
 				},
 				{
 					'title': 'Trash & Recycling',
@@ -48,10 +44,6 @@
 				{
 					'title': 'Ausflüge',
 					'url': '/de/excursions'
-				},
-				{
-					'title': 'Do & Don\'t Guide',
-					'url': '/de/apartment-guide'
 				},
 				{
 					'title': 'Müll & Recycling',

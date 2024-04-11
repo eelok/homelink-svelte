@@ -1,6 +1,6 @@
 <div class="container">
 	<h1>Ausflüge</h1>
-
+	
 	<h2>Fahrradtours</h2>
 
 	<p>Wir haben für euch einige Fahrradtours zusammengestellt, die ihr in Lindau und Umgebung unternehmen könnt.</p>
