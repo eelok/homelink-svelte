@@ -27,8 +27,12 @@
 		'de': {
 			'urls': [
 				{
-					'title': 'Anleitung',
+					'title': 'Willkommen',
 					'url': '/de'
+				},
+				{
+					'title': 'Kaffeemaschine',
+					'url': '/de/coffee-machine'
 				},
 				{
 					'title': 'Restaurants',
