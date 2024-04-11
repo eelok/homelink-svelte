@@ -1,5 +1,5 @@
 <div class="container">
-    <h2>Coffee Machine - User Guide</h2>
+    <h1>Coffee Machine - User Guide</h1>
     <p>Our Sage The Oracle coffee machine allows you to enjoy barista-quality coffee right in our kitchen. Here is a quick guide on how to prepare espresso and froth milk.</p>
     <h3>Starting the Coffee Machine:</h3>
     <ul>
