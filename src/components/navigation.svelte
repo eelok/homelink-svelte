@@ -54,7 +54,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
 	<div class="container container-fluid">
-		<a class="display-1 navbar-brand fw-bold text-white" href={`/${lang}`}>T&M</a>
+		<a class="display-1 navbar-brand fw-bold text-white" href="/">T&M</a>
 		<button
 			class="navbar-toggler"
 			type="button"
