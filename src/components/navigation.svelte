@@ -1,7 +1,6 @@
 <script>	
 	import { page } from '$app/stores';
 	export let lang = 'en';
-	export let currentPath = '';
 	
 	const routes = {
 		'en': {
@@ -17,7 +16,7 @@
 				{
 					'title': 'Restaurants',
 					'url': '/en/restaurants'
-				}
+				},
 				{
 					'title': 'Ausflüge',
 					'url': '/en/excursions'

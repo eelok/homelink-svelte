@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="row mt-3">
-		<h3>Wohnung Navigation</h3>
+		<h3>Wohnung Anleitung</h3>
 	</div>
 	<div class="row mt-2">
 		<div class="col-auto pe-2">

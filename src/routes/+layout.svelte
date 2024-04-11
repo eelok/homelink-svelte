@@ -7,5 +7,5 @@
 
 </script>
 
-<Navigation lang="{lang}" currentPath={$page.url.pathname} />
+<Navigation lang="{lang}" />
 <slot />
