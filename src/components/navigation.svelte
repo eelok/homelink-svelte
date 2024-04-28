@@ -10,6 +10,10 @@
 					'url': '/en'
 				},
 				{
+					'title': 'Gallery',
+					'url': '/en/gallery'
+				},
+				{
 					'title': 'Coffee Machine',
 					'url': '/en/coffee-machine'
 				},
@@ -29,30 +33,6 @@
 					'title': 'Before You Leave',
 					'url': '/en/departure'
 				}
-			]
-		},
-		'de': {
-			'urls': [
-				{
-					'title': 'Willkommen',
-					'url': '/de'
-				},
-				{
-					'title': 'Kaffeemaschine',
-					'url': '/de/coffee-machine'
-				},
-				{
-					'title': 'Restaurants',
-					'url': '/de/restaurants'
-				},
-				{
-					'title': 'Ausflüge',
-					'url': '/de/excursions'
-				},
-				{
-					'title': 'Müll & Recycling',
-					'url': '/de/garbage'
-				}				
 			]
 		}
 	}
