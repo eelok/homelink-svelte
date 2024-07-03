@@ -1,61 +1,10 @@
 <script>	
 	import { page } from '$app/stores';
+	import { getRoutes } from '$lib/navigation.routes';
 	export let lang = 'en';
+
+	const routes = getRoutes(lang);
 	
-	const routes = {
-		'en': {
-			'urls': [
-				{
-					'title': 'Welcome',
-					'url': '/en'
-				},
-				{
-					'title': 'Coffee Machine',
-					'url': '/en/coffee-machine'
-				},
-				{
-					'title': 'Restaurants',
-					'url': '/en/restaurants'
-				},
-				{
-					'title': 'Excursions',
-					'url': '/en/excursions'
-				},
-				{
-					'title': 'Trash & Recycling',
-					'url': '/en/garbage'
-				},
-				{
-					'title': 'Before You Leave',
-					'url': '/en/departure'
-				}
-			]
-		},
-		'de': {
-			'urls': [
-				{
-					'title': 'Willkommen',
-					'url': '/de'
-				},
-				{
-					'title': 'Kaffeemaschine',
-					'url': '/de/coffee-machine'
-				},
-				{
-					'title': 'Restaurants',
-					'url': '/de/restaurants'
-				},
-				{
-					'title': 'Ausflüge',
-					'url': '/de/excursions'
-				},
-				{
-					'title': 'Müll & Recycling',
-					'url': '/de/garbage'
-				}				
-			]
-		}
-	}
 	$: isActive = (url) => $page.url.pathname === url;
 </script>
 
@@ -77,7 +26,7 @@
 		<div class="collapse navbar-collapse" id="navbarToggler">
 			<ul class="navbar-nav ms-auto">
 				<div class="dropdown-divider"></div>
-				{#each routes[lang].urls as route}
+				{#each routes as route}
 				<li class="nav-item">
 					<a class={`nav-link ${isActive(route.url) ? 'active' : ''}`} href={route.url}>{route.title}</a>
 				</li>

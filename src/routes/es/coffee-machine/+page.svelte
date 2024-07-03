@@ -1,0 +1,50 @@
+<div class="container">
+	<h1>Cafetera - Guía de Usuario</h1>
+	<p>
+		Nuestra cafetera Sage The Oracle te permite disfrutar de café de calidad barista directamente en nuestra cocina. Aquí tienes una guía rápida sobre cómo preparar espresso y espumar leche.
+	</p>
+	<h2>Encendiendo la Cafetera:</h2>
+	<ul>
+		<li>Enciende la máquina usando el interruptor de encendido en la parte frontal.</li>
+		<li>
+			Espera hasta que la máquina se caliente a 93 grados. El estado actual y la temperatura se muestran en la pantalla.
+		</li>
+	</ul>
+	<h2>Preparando Espresso:</h2>
+	<ul>
+		<li>
+			En el armario encima de la cafetera, encontrarás granos de café - tanto regular como descafeinado.
+		</li>
+		<li>
+			Llena el contenedor de café con el café seleccionado. Puedes usar una taza de espresso como medidor para medir la cantidad correcta.
+		</li>
+		<li>
+			Para un espresso de un solo shot, debes usar el filtro especial de un solo shot que se encuentra en la bandeja de goteo extraíble. Para un doble espresso (Double Shot) o dos tazas, usa el filtro regular.
+		</li>
+		<li>Inserta el portafiltro en el grupo de preparación.</li>
+		<li>
+			Selecciona el tamaño de taza deseado. Las tazas correspondientes también se encuentran en el armario encima de la cafetera.
+		</li>
+		<li>
+			El tamaño de la molienda está configurado para café descafeinado. Si la extracción es demasiado rápida, ajusta a un tamaño de molienda más fino usando el control izquierdo (número más bajo). Si es demasiado lenta, ajusta a un tamaño de molienda más grueso (número más alto).
+		</li>
+		<li>
+			Para un espresso de un solo shot, presiona el botón de 1 taza (30 segundos de extracción). Para un doble espresso o dos tazas, usa el botón de 2 tazas (40 segundos de extracción).
+		</li>
+	</ul>
+
+	<h2>Espumando Leche:</h2>
+	<ul>
+		<li>
+			Llena la jarra de leche hasta la marca con leche. Si usas leche de avena, puedes usar Oatly Barista Oat Milk de la despensa en el pasillo.
+		</li>
+		<li>Coloca la jarra de leche bajo el espumador de leche y selecciona el nivel de espuma deseado.</li>
+		<li>
+			Enciende el espumador de leche (gira el control derecho hacia abajo para operación automática; hacia arriba para operación manual) y espera hasta que la leche alcance la consistencia perfecta y la temperatura no supere los 65 grados Celsius.
+		</li>
+		<li>Después de cada espumado, limpia la boquilla del espumador con un paño húmedo.</li>
+	</ul>
+	<p>
+		Ahora puedes combinar tu espresso con la leche espumada para crear el cappuccino o latte macchiato perfecto. ¡Disfruta tu café!
+	</p>
+</div>
