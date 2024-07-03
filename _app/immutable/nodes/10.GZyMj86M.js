@@ -1,4 +1,4 @@
-import{s,n as o}from"../chunks/scheduler.Bmg8oFKD.js";import{S as n,i as l,e as h,c,k as u,l as f,g as p,d}from"../chunks/index.Bz31iuYP.js";function m(r){let e,i=`<h1>Coffee Machine - User Guide</h1> <p>Our Sage The Oracle coffee machine allows you to enjoy barista-quality coffee right in our
+import{s,n as o}from"../chunks/scheduler.Bmg8oFKD.js";import{S as n,i as l,e as h,c,k as u,l as f,g as p,d}from"../chunks/index.Dc-GuGfd.js";function m(r){let e,i=`<h1>Coffee Machine - User Guide</h1> <p>Our Sage The Oracle coffee machine allows you to enjoy barista-quality coffee right in our
 		kitchen. Here is a quick guide on how to prepare espresso and froth milk.</p> <h2>Starting the Coffee Machine:</h2> <ul><li>Turn on the machine using the power switch on the front.</li> <li>Wait until the machine heats up to 93 degrees. The current status and temperature are
 			displayed on the screen.</li></ul> <h2>Preparing Espresso:</h2> <ul><li>In the cabinet above the coffee machine, you will find coffee beans - both regular and
 			decaffeinated coffee.</li> <li>Fill the coffee container with the selected coffee. You can use an espresso cup as a measuring
