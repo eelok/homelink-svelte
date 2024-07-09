@@ -38,6 +38,12 @@
       <li><strong>Transportation:</strong> The Lindau-Insel train station is a 5-minute walk away. Visit our <a href="/en/transportation">transportation guide</a> for more details.</li>
       <li><strong>Attractions:</strong> Don't miss the <a href="https://www.lindau.de/lindau-entdecken/sehenswuerdigkeiten/">sights</a> and <a href="https://www.lindau.de/lindau-entdecken/bodensee/ausflugsziele-am-bodensee/">excursion destinations</a> Lindau has to offer.</li>
       <li><strong>Wellness:</strong> Visit the <a href="https://www.therme-lindau.com/">Lindau-Therme</a> for a relaxing spa experience.</li>
+      <li><strong>Hiking and Biking:</strong> For tips and inspiration on exploring the Lake Constance region:
+        <ul>
+          <li>Follow our Instagram: <a href="https://www.instagram.com/lindau_island" target="_blank" rel="noopener noreferrer">@lindau_island</a></li>
+          <li>Check out our YouTube channel: <a href="https://www.youtube.com/@lindau-island" target="_blank" rel="noopener noreferrer">Lindau and Lake Constance</a></li>
+        </ul>
+      </li>
     </ul>
   
     <h3>Need Help?</h3>

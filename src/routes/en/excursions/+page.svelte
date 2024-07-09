@@ -11,4 +11,12 @@
 
     <p>Explore the scenic beauty of Lindau and its surroundings on foot with these carefully curated hiking tours, designed to showcase the natural wonders of our area.</p>
     <iframe src="https://www.komoot.com/collection/2671708/embed" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+    <h2>Additional Resources</h2>
+    <p>For more hiking and biking tips, inspiration, and up-to-date information about exploring the Lake Constance region, check out our social media channels:</p>
+    <ul>
+        <li>Instagram: <a href="https://www.instagram.com/lindau_island" target="_blank" rel="noopener noreferrer">@lindau_island</a> - Follow us for stunning photos and quick tips about the best trails and views in the area.</li>
+        <li>YouTube: <a href="https://www.youtube.com/@lindau-island" target="_blank" rel="noopener noreferrer">Lindau Island</a> - Subscribe to our channel for scenic tours of the Lake Constance region.</li>
+    </ul>
+    <p>These resources are regularly updated with new content to help you make the most of your outdoor adventures during your stay.</p>
 </div>
