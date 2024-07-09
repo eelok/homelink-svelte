@@ -103,84 +103,77 @@
         <h2>Boat Services</h2>
         <p>Explore Lake Constance with various ferry services and pleasure cruises. The following schedule is valid from May 18 to September 8:</p>
     
-        <table class="table table-striped">
-          <thead>
-            <tr>
-              <th>Departure Time</th>
-              <th>Frequency</th>
-              <th>Departure Location</th>
-              <th>Duration</th>
-              <th>Arrival Time</th>
-              <th>Route</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>09:25</td>
-              <td>Daily</td>
-              <td>Lindau Harbor (Hafen Lindau)</td>
-              <td>2:15</td>
-              <td>11:40</td>
-              <td>Rorschach Bay (Rorschacher Bucht)</td>
-            </tr>
-            <tr>
-              <td>11:45</td>
-              <td>Daily</td>
-              <td>Lindau Harbor (Hafen Lindau)</td>
-              <td>2:20</td>
-              <td>14:05</td>
-              <td>Rorschach Bay (Rorschacher Bucht)</td>
-            </tr>
-            <tr>
-              <td>12:00</td>
-              <td>Tuesday - Sunday and holidays</td>
-              <td>Lindau Casino (Lindau Spielbank)</td>
-              <td>1:30</td>
-              <td>13:30</td>
-              <td>Panorama Trip (Panorama-Fahrt)</td>
-            </tr>
-            <tr>
-              <td>14:00</td>
-              <td>Tuesday - Sunday and holidays</td>
-              <td>Lindau Casino (Lindau Spielbank)</td>
-              <td>1:30</td>
-              <td>15:30</td>
-              <td>Panorama Trip (Panorama-Fahrt)</td>
-            </tr>
-            <tr>
-              <td>14:45</td>
-              <td>Daily</td>
-              <td>Lindau Harbor (Hafen Lindau)</td>
-              <td>1:30</td>
-              <td>16:15</td>
-              <td>Three-Country Round Trip (Drei-Länder-Rundfahrt)</td>
-            </tr>
-            <tr>
-              <td>15:50</td>
-              <td>Daily</td>
-              <td>Lindau Harbor (Hafen Lindau)</td>
-              <td>2:25</td>
-              <td>18:15</td>
-              <td>Rorschach Bay (Rorschacher Bucht)</td>
-            </tr>
-            <tr>
-              <td>16:00</td>
-              <td>Tuesday - Sunday and holidays</td>
-              <td>Lindau Casino (Lindau Spielbank)</td>
-              <td>1:00</td>
-              <td>17:00</td>
-              <td>Bregenz Bay (Bregenzer Bucht)</td>
-            </tr>
-            <tr>
-              <td>18:05</td>
-              <td>Daily</td>
-              <td>Lindau Harbor (Hafen Lindau)</td>
-              <td>0:52</td>
-              <td>18:57</td>
-              <td>Evening Mood Bregenz (Abendstimmung Bregenz)</td>
-            </tr>
-          </tbody>
-        </table>
+        <div class="table-responsive">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>Time</th>
+                  <th>Frequency</th>
+                  <th>Departure</th>
+                  <th>Duration</th>
+                  <th>Route</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>09:25</td>
+                  <td>Daily</td>
+                  <td>Lindau Harbor (Hafen Lindau)</td>
+                  <td>2:15</td>
+                  <td>Rorschach Bay (Rorschacher Bucht)</td>
+                </tr>
+                <tr>
+                  <td>11:45</td>
+                  <td>Daily</td>
+                  <td>Lindau Harbor (Hafen Lindau)</td>
+                  <td>2:20</td>
+                  <td>Rorschach Bay (Rorschacher Bucht)</td>
+                </tr>
+                <tr>
+                  <td>12:00</td>
+                  <td>Tue-Sun & holidays</td>
+                  <td>Lindau Casino (Lindau Spielbank)</td>
+                  <td>1:30</td>
+                  <td>Panorama Trip (Panorama-Fahrt)</td>
+                </tr>
+                <tr>
+                  <td>14:00</td>
+                  <td>Tue-Sun & holidays</td>
+                  <td>Lindau Casino (Lindau Spielbank)</td>
+                  <td>1:30</td>
+                  <td>Panorama Trip (Panorama-Fahrt)</td>
+                </tr>
+                <tr>
+                  <td>14:45</td>
+                  <td>Daily</td>
+                  <td>Lindau Harbor (Hafen Lindau)</td>
+                  <td>1:30</td>
+                  <td>Three-Country Round Trip (Drei-Länder-Rundfahrt)</td>
+                </tr>
+                <tr>
+                  <td>15:50</td>
+                  <td>Daily</td>
+                  <td>Lindau Harbor (Hafen Lindau)</td>
+                  <td>2:25</td>
+                  <td>Rorschach Bay (Rorschacher Bucht)</td>
+                </tr>
+                <tr>
+                  <td>16:00</td>
+                  <td>Tue-Sun & holidays</td>
+                  <td>Lindau Casino (Lindau Spielbank)</td>
+                  <td>1:00</td>
+                  <td>Bregenz Bay (Bregenzer Bucht)</td>
+                </tr>
+                <tr>
+                  <td>18:05</td>
+                  <td>Daily</td>
+                  <td>Lindau Harbor (Hafen Lindau)</td>
+                  <td>0:52</td>
+                  <td>Evening Mood Bregenz (Abendstimmung Bregenz)</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
     
         <p>Route Descriptions:</p>
         <ul>
@@ -247,3 +240,18 @@
         <p>For information about popular cycling routes and bike maps of the region, you can inquire at the rental shops or visit the Lindau tourist information center.</p>
       </section>
 </div>
+<style>
+    @media screen and (max-width: 600px) {
+      .table-responsive {
+        overflow-x: auto;
+      }
+      .table-responsive table {
+        width: 100%;
+        min-width: 500px;
+      }
+      .table-responsive th,
+      .table-responsive td {
+        white-space: nowrap;
+      }
+    }
+  </style>
