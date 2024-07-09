@@ -38,10 +38,10 @@ const routeTranslations = {
       'title': 'Welcome',
       'url': '/'
     },
-    // {
-    //   'title': 'Transportation',
-    //   'url': '/transportation'
-    // },
+    {
+      'title': 'Transportation',
+      'url': '/transportation'
+    },
     {
       'title': 'Coffee Machine',
       'url': '/coffee-machine'
