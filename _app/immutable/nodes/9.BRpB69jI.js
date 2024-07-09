@@ -1,24 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="../style.css" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-		
-		<link href="../_app/immutable/assets/0.DUEfxN0n.css" rel="stylesheet">
-		<link href="../_app/immutable/assets/9.DQDWM80_.css" rel="stylesheet">
-		<link rel="modulepreload" href="../_app/immutable/entry/start.DNJAZ6t9.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/entry.D1fvKic2.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/scheduler.Bmg8oFKD.js">
-		<link rel="modulepreload" href="../_app/immutable/entry/app.B4SllgEA.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/index.Dc-GuGfd.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/0.CUT86ymC.js">
-		<link rel="modulepreload" href="../_app/immutable/chunks/stores.CRKqPDhO.js">
-		<link rel="modulepreload" href="../_app/immutable/nodes/9.BRpB69jI.js">
-	</head>
-	<body >
-		<div style="display: contents">  <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white"><div class="container container-fluid"><a class="display-1 navbar-brand fw-bold text-white" href="/" data-svelte-h="svelte-4wg5r5">T&amp;M</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation" data-svelte-h="svelte-1k3qhe2"><span class="navbar-toggler-icon"></span></button> <div class="collapse navbar-collapse" id="navbarToggler"><ul class="navbar-nav ms-auto"><div class="dropdown-divider"></div> <li class="nav-item"><a class="nav-link " href="/en/">Welcome</a> </li><li class="nav-item"><a class="nav-link active" href="/en/transportation">Transportation</a> </li><li class="nav-item"><a class="nav-link " href="/en/coffee-machine">Coffee Machine</a> </li><li class="nav-item"><a class="nav-link " href="/en/restaurants">Restaurants</a> </li><li class="nav-item"><a class="nav-link " href="/en/excursions">Excursions</a> </li><li class="nav-item"><a class="nav-link " href="/en/garbage">Trash &amp; Recycling</a> </li><li class="nav-item"><a class="nav-link " href="/en/departure">Before You Leave</a> </li></ul></div></div></nav> <div class="container" data-svelte-h="svelte-t8wblq"><h1>Transportation Guide for Lindau</h1> <section><h2>Overview</h2> <p>Lindau offers a variety of transportation options to help you explore the city and its
+import{s as i,n}from"../chunks/scheduler.Bmg8oFKD.js";import{S as o,i as l,e as h,c,k as u,l as p,g as d,d as g}from"../chunks/index.Dc-GuGfd.js";function v(s){let e,r=`<h1>Transportation Guide for Lindau</h1> <section><h2>Overview</h2> <p>Lindau offers a variety of transportation options to help you explore the city and its
 			surroundings. From public transport to bike rentals, here&#39;s everything you need to know to get
 			around efficiently.</p></section> <section><h2>Arriving from Nearby Airports</h2> <p>If you&#39;re arriving by air, here are the nearest airports and how to reach Lindau from them:</p> <h3>Munich Airport (MUC)</h3> <h4>By Train:</h4> <ul><li>Journey time: Approximately 3:30 - 4:00 hours</li> <li>Most trains to Lindau-Insel are regional trains, which don&#39;t require advance booking</li> <li>Recommended option: Bayern Ticket</li> <ul><li>Valid throughout Bavaria for one day on regional trains and local buses</li> <li>Covers S-Bahn, U-Bahn, RE, and REX trains</li> <li>Price: 29€ for the first passenger, 10€ for each additional passenger</li></ul> <li>Alternative: ECE Train</li> <ul><li>Slightly faster (about 30 minutes) but less frequent (2-hour intervals)</li> <li>Saver fare: From 30€ per person, bound to a specific train</li> <li>Flexible ticket: From 60€ per person, can be used on any ECE train for the route</li></ul></ul> <h3>Zürich Airport (ZRH)</h3> <h4>By Train:</h4> <ul><li>Direct trains available from Zürich Airport to Lindau</li> <li>Journey time: 1:45 - 2:15 hours</li> <li>Price: Starting from 44,50 euros</li></ul> <h4>Ticket Purchase Options (for both airports):</h4> <ul><li>At the ticket office in the train station at the airport</li> <li>Using the DB Navigator app</li> <li>On the Deutsche Bahn website</li></ul></section> <section><h2>Public Transport</h2> <h3>Train Connections</h3> <p>The main train station in Lindau is located on the island and is called Lindau-Insel. It
 			serves as a hub for regional and international train connections.</p> <h4>Train Operators</h4> <p>Two main companies operate train services from Lindau-Insel:</p> <ul><li>Deutsche Bahn (DB)</li> <li>Österreichische Bundesbahnen (ÖBB)</li></ul> <h4>Destinations</h4> <p>From Lindau-Insel station, you can reach various destinations in multiple countries:</p> <h5>Austria:</h5> <ul><li>Bregenz</li> <li>Feldkirch</li> <li>Bludenz</li> <li>Schruns</li> <li>Lustenau</li> <li>And more</li></ul> <h5>Germany:</h5> <ul><li>Friedrichshafen</li> <li>Munich</li> <li>Ulm</li> <li>Oberstdorf</li> <li>Oberstaufen</li> <li>Füssen (for Neuschwanstein Castle)</li> <li>And more</li></ul> <h5>Switzerland:</h5> <p>Connections to Switzerland and Lichtenstein are available through Austria.</p> <h4>Timetables and Tickets</h4> <p>For the most up-to-date timetables and to purchase tickets, please visit:</p> <ul><li>Deutsche Bahn (DB): <a href="https://www.bahn.com/en" target="_blank" rel="noopener noreferrer">www.bahn.com</a></li> <li>Österreichische Bundesbahnen (ÖBB): <a href="https://www.oebb.at/en/" target="_blank" rel="noopener noreferrer">www.oebb.at</a></li></ul></section> <section><h2>Boat Services</h2> <p>Explore Lake Constance with various ferry services and pleasure cruises. The following
@@ -36,31 +16,4 @@
 			check their websites or contact them directly for current prices, availability, and any
 			special offers they might have.</p> <h3>Tips for Cycling in Lindau:</h3> <ul><li>Always follow local traffic rules and signs</li> <li>Use bike lanes and dedicated cycling paths where available</li> <li>Wear a helmet for safety (although it&#39;s not mandatory for adults in Germany)</li> <li>Lock your bike securely when parking</li> <li>Bring water and snacks for longer rides</li> <li>Consider renting an e-bike if you plan on covering longer distances or tackling hilly
 				terrain</li></ul> <p>For information about popular cycling routes and bike maps of the region, you can inquire at
-			the rental shops or visit the Lindau tourist information center.</p></section> </div> 
-			
-			<script>
-				{
-					__sveltekit_1nazvbz = {
-						base: new URL("..", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [{"type":"data","data":null,"uses":{}},null];
-
-					Promise.all([
-						import("../_app/immutable/entry/start.DNJAZ6t9.js"),
-						import("../_app/immutable/entry/app.B4SllgEA.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 9],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+			the rental shops or visit the Lindau tourist information center.</p></section>`;return{c(){e=h("div"),e.innerHTML=r,this.h()},l(t){e=c(t,"DIV",{class:!0,"data-svelte-h":!0}),u(e)!=="svelte-t8wblq"&&(e.innerHTML=r),this.h()},h(){p(e,"class","container")},m(t,a){d(t,e,a)},p:n,i:n,o:n,d(t){t&&g(e)}}}class b extends o{constructor(e){super(),l(this,e,null,v,i,{})}}export{b as component};
