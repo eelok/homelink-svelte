@@ -277,39 +277,19 @@
 				e-bikes, perfect for touring the Lake Constance region.
 			</p>
 		</div>
-
-		<h3>Why Rent a Bike in Lindau?</h3>
-		<ul>
-			<li>Explore the picturesque island of Lindau at your own pace</li>
-			<li>Enjoy scenic rides along the shores of Lake Constance</li>
-			<li>Easily visit nearby attractions and neighboring towns</li>
-			<li>Take advantage of the well-maintained bike paths in the region</li>
-			<li>Eco-friendly way to tour the area</li>
-		</ul>
-
 		<p>
 			Both rental shops offer options for short-term and long-term rentals. It's recommended to
 			check their websites or contact them directly for current prices, availability, and any
 			special offers they might have.
 		</p>
-
-		<h3>Tips for Cycling in Lindau:</h3>
-		<ul>
-			<li>Always follow local traffic rules and signs</li>
-			<li>Use bike lanes and dedicated cycling paths where available</li>
-			<li>Wear a helmet for safety (although it's not mandatory for adults in Germany)</li>
-			<li>Lock your bike securely when parking</li>
-			<li>Bring water and snacks for longer rides</li>
-			<li>
-				Consider renting an e-bike if you plan on covering longer distances or tackling hilly
-				terrain
-			</li>
-		</ul>
-
-		<p>
-			For information about popular cycling routes and bike maps of the region, you can inquire at
-			the rental shops or visit the Lindau tourist information center.
-		</p>
+        <div class="bodensee-radweg">
+            <p>
+              For information about popular cycling routes and bike maps, we've prepared some details in the 
+              <a href="/en/excursions">Excursions</a> section. The famous Bodensee-Radweg (Lake Constance Cycle Path) 
+              starts right from our doorstep — just follow the signs!
+            </p>
+            <img src="/images/Bodensee_Radweg_sign.svg" alt="Bodensee-Radweg Logo" class="bodensee-logo" />
+          </div>
 	</section>
 </div>
 
@@ -334,4 +314,17 @@
       margin: 0.5rem 0;
       font-size: 0.9rem;
     }
+    .rental-shop {
+    margin-bottom: 1.5rem;
+  }
+  .bodensee-radweg {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .bodensee-logo {
+    width: 60px;
+    height: auto;
+  }
   </style>
