@@ -48,8 +48,7 @@
     <h3>Tap Water</h3>
 	<p>
 		Tap water in Germany, including Lindau, is safe to drink. In fact, Lindau's water comes directly
-		from Lake Constance and undergoes careful treatment without chemicals. Feel free to enjoy our
-		refreshing tap water during your stay - it's both high-quality and environmentally friendly!
+		from Lake Constance and undergoes careful treatment without chemicals. Thus you don't have to buy bottled water.
 	</p>
 	<h3>Local Tips</h3>
 	<ul>
