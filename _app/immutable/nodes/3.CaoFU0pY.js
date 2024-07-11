@@ -1,4 +1,4 @@
-import{s as o,n}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as h,c as d,k as u,l as g,g as p,d as c}from"../chunks/index.Dc-GuGfd.js";function m(i){let e,t=`<h1>Welcome to our apartment in Lindau!</h1> <p>We&#39;re delighted you&#39;ve chosen our apartment for your stay in Lindau. We hope you&#39;ll feel as
+import{s as r,n as t}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as h,c as d,k as u,l as p,g,d as c}from"../chunks/index.Dc-GuGfd.js";function m(i){let e,n=`<h1>Welcome to our apartment in Lindau!</h1> <p>We&#39;re delighted you&#39;ve chosen our apartment for your stay in Lindau. We hope you&#39;ll feel as
 		comfortable here as we do and wish you a wonderful time at Lake Constance!</p> <h3>Quick Information</h3> <ul><li><strong>Keys:</strong> You have two keys - both have square ends. The apartment key is branded
 			with ABUS.</li> <li><strong>Location:</strong> Our apartment is on the second floor, right side. Please note there&#39;s
 			no elevator.</li> <li><strong>Wi-Fi:</strong> Network name: <strong>Martin</strong>. Access data is on the telephone
@@ -8,8 +8,7 @@ import{s as o,n}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as 
 		fridge.</p> <h3>Important Notes</h3> <ul><li>Please remove your shoes when entering the apartment.</li> <li>You&#39;re welcome to use the Wi-Fi printer in the hallway.</li> <li>Additional toilet paper is in the bathroom cabinet if needed.</li> <li>Umbrellas are available in the hallway wardrobe for your use.</li> <li>Please do not wash knives, pots, and pans in the dishwasher.</li></ul> <h3>Garbage and Recycling</h3> <p>You&#39;ll find bins for organic waste, residual waste, plastics, and paper in the kitchen. Larger
 		garbage bags can be disposed of in the courtyard. The garbage room next to the basement can be
 		opened with your front door key.</p> <h3>Tap Water</h3> <p>Tap water in Germany, including Lindau, is safe to drink. In fact, Lindau&#39;s water comes directly
-		from Lake Constance and undergoes careful treatment without chemicals. Feel free to enjoy our
-		refreshing tap water during your stay - it&#39;s both high-quality and environmentally friendly!</p> <h3>Local Tips</h3> <ul><li><strong>Shopping:</strong> We recommend Netto at Marktplatz 5 or Rewe at Zeppelinstraße 6 (open
+		from Lake Constance and undergoes careful treatment without chemicals. Thus you don&#39;t have to buy bottled water.</p> <h3>Local Tips</h3> <ul><li><strong>Shopping:</strong> We recommend Netto at Marktplatz 5 or Rewe at Zeppelinstraße 6 (open
 			7 AM to 8 PM, closed on Sundays and holidays).</li> <li><strong>Restaurants:</strong> Check out our
 			<a href="/en/restaurants">restaurant recommendations</a> for great dining options.</li> <li><strong>Transportation:</strong> The Lindau-Insel train station is a 5-minute walk away. Visit
 			our <a href="/en/transportation">transportation guide</a> for more details.</li> <li><strong>Attractions:</strong> Don&#39;t miss the
@@ -22,4 +21,4 @@ import{s as o,n}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as 
 		Adelina and Sander (apartment directly opposite ours). They&#39;re very friendly and knowledgeable
 		about the area.</p> <hr/> <p>We wish you an unforgettable stay in Lindau. If you have any questions, we&#39;re always available
 		to help.</p> <p>Best regards,<br/>
-		Maria &amp; Tim</p>`;return{c(){e=h("div"),e.innerHTML=t,this.h()},l(a){e=d(a,"DIV",{class:!0,"data-svelte-h":!0}),u(e)!=="svelte-g39oa9"&&(e.innerHTML=t),this.h()},h(){g(e,"class","container")},m(a,r){p(a,e,r)},p:n,i:n,o:n,d(a){a&&c(e)}}}class y extends s{constructor(e){super(),l(this,e,null,m,o,{})}}export{y as component};
+		Maria &amp; Tim</p>`;return{c(){e=h("div"),e.innerHTML=n,this.h()},l(a){e=d(a,"DIV",{class:!0,"data-svelte-h":!0}),u(e)!=="svelte-18cid8p"&&(e.innerHTML=n),this.h()},h(){p(e,"class","container")},m(a,o){g(a,e,o)},p:t,i:t,o:t,d(a){a&&c(e)}}}class y extends s{constructor(e){super(),l(this,e,null,m,r,{})}}export{y as component};
