@@ -66,9 +66,9 @@
 		</li>
 		<li>
 			<strong>Attractions:</strong> Don't miss the
-			<a href="https://www.lindau.de/lindau-entdecken/sehenswuerdigkeiten/">sights</a>
+			<a href="https://www.lindau.de/en/discover-lindau/attractions/">sights</a>
 			and
-			<a href="https://www.lindau.de/lindau-entdecken/bodensee/ausflugsziele-am-bodensee/"
+			<a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/"
 				>excursion destinations</a
 			> Lindau has to offer.
 		</li>

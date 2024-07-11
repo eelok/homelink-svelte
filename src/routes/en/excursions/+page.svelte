@@ -30,5 +30,7 @@
     <ul>
         <li><a href="https://www.bodensee.eu/en">Lake Constance - Official Website</a></li>
         <li><a href="https://www.lindau.de/">Lindau - Official Website</a></li>
+        <li><a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/">Must See at lake constance</a></li>
+        <li><a href="https://www.lindau.de/en/discover-lindau/attractions/">Lindau Sights</a></li>
     </ul>
 </div>
