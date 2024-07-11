@@ -71,6 +71,6 @@ const routeTranslations = {
     return baseRoutes.map(route => ({
       ...route,
       title: translations[route.title] || route.title, // Fallback to English if translation is missing
-      url: `/${lang}${route.url}`
+      url: `/en${route.url}`
     }));
   }
