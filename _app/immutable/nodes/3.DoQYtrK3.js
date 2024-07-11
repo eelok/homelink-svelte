@@ -1,23 +1,4 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="stylesheet" href="./style.css" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-		
-		<link href="./_app/immutable/assets/0.DUEfxN0n.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.D8s63ght.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/entry.BzjFEFXa.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.Bmg8oFKD.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.B3j5nwJ_.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.Dc-GuGfd.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.CQS-uyB6.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/stores.DmdeDl_l.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/3.DoQYtrK3.js">
-	</head>
-	<body >
-		<div style="display: contents">  <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white"><div class="container container-fluid"><a class="display-1 navbar-brand fw-bold text-white" href="/" data-svelte-h="svelte-4wg5r5">T&amp;M</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation" data-svelte-h="svelte-1k3qhe2"><span class="navbar-toggler-icon"></span></button> <div class="collapse navbar-collapse" id="navbarToggler"><ul class="navbar-nav ms-auto"><div class="dropdown-divider"></div> <li class="nav-item"><a class="nav-link " href="/en/">Welcome</a> </li><li class="nav-item"><a class="nav-link " href="/en/transportation">Transportation</a> </li><li class="nav-item"><a class="nav-link " href="/en/coffee-machine">Coffee Machine</a> </li><li class="nav-item"><a class="nav-link " href="/en/restaurants">Restaurants</a> </li><li class="nav-item"><a class="nav-link " href="/en/excursions">Excursions</a> </li><li class="nav-item"><a class="nav-link " href="/en/garbage">Trash &amp; Recycling</a> </li><li class="nav-item"><a class="nav-link " href="/en/departure">Before You Leave</a> </li></ul></div></div></nav> <div class="container" data-svelte-h="svelte-g39oa9"><h1>Welcome to our apartment in Lindau!</h1> <p>We&#39;re delighted you&#39;ve chosen our apartment for your stay in Lindau. We hope you&#39;ll feel as
+import{s as o,n}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as h,c as d,k as u,l as g,g as p,d as c}from"../chunks/index.Dc-GuGfd.js";function m(i){let e,t=`<h1>Welcome to our apartment in Lindau!</h1> <p>We&#39;re delighted you&#39;ve chosen our apartment for your stay in Lindau. We hope you&#39;ll feel as
 		comfortable here as we do and wish you a wonderful time at Lake Constance!</p> <h3>Quick Information</h3> <ul><li><strong>Keys:</strong> You have two keys - both have square ends. The apartment key is branded
 			with ABUS.</li> <li><strong>Location:</strong> Our apartment is on the second floor, right side. Please note there&#39;s
 			no elevator.</li> <li><strong>Wi-Fi:</strong> Network name: <strong>Martin</strong>. Access data is on the telephone
@@ -39,33 +20,6 @@
 			region:
 			<ul><li>Follow our Instagram: <a href="https://www.instagram.com/lindau_island" target="_blank" rel="noopener noreferrer">@lindau_island</a></li> <li>Check out our YouTube channel: <a href="https://www.youtube.com/@lindau-island" target="_blank" rel="noopener noreferrer">Lindau and Lake Constance</a></li></ul></li></ul> <h3>Need Help?</h3> <p>If you have any questions about the neighborhood or the house, feel free to ask our neighbors
 		Adelina and Sander (apartment directly opposite ours). They&#39;re very friendly and knowledgeable
-		about the area.</p> <hr> <p>We wish you an unforgettable stay in Lindau. If you have any questions, we&#39;re always available
-		to help.</p> <p>Best regards,<br>
-		Maria &amp; Tim</p></div> 
-			
-			<script>
-				{
-					__sveltekit_1ah2u2a = {
-						base: new URL(".", location).pathname.slice(0, -1)
-					};
-
-					const element = document.currentScript.parentElement;
-
-					const data = [{"type":"data","data":null,"uses":{}},null];
-
-					Promise.all([
-						import("./_app/immutable/entry/start.D8s63ght.js"),
-						import("./_app/immutable/entry/app.B3j5nwJ_.js")
-					]).then(([kit, app]) => {
-						kit.start(app, element, {
-							node_ids: [0, 3],
-							data,
-							form: null,
-							error: null
-						});
-					});
-				}
-			</script>
-		</div>
-	</body>
-</html>
+		about the area.</p> <hr/> <p>We wish you an unforgettable stay in Lindau. If you have any questions, we&#39;re always available
+		to help.</p> <p>Best regards,<br/>
+		Maria &amp; Tim</p>`;return{c(){e=h("div"),e.innerHTML=t,this.h()},l(a){e=d(a,"DIV",{class:!0,"data-svelte-h":!0}),u(e)!=="svelte-g39oa9"&&(e.innerHTML=t),this.h()},h(){g(e,"class","container")},m(a,r){p(a,e,r)},p:n,i:n,o:n,d(a){a&&c(e)}}}class y extends s{constructor(e){super(),l(this,e,null,m,o,{})}}export{y as component};
