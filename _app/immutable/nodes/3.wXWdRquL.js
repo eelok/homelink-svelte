@@ -1,4 +1,4 @@
-import{s as r,n as t}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as h,c as d,k as u,l as p,g,d as c}from"../chunks/index.Dc-GuGfd.js";function m(i){let e,n=`<h1>Welcome to our apartment in Lindau!</h1> <p>We&#39;re delighted you&#39;ve chosen our apartment for your stay in Lindau. We hope you&#39;ll feel as
+import{s as r,n as t}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,e as h,c as d,k as u,l as p,g as c,d as g}from"../chunks/index.Dc-GuGfd.js";function m(o){let e,n=`<h1>Welcome to our apartment in Lindau!</h1> <p>We&#39;re delighted you&#39;ve chosen our apartment for your stay in Lindau. We hope you&#39;ll feel as
 		comfortable here as we do and wish you a wonderful time at Lake Constance!</p> <h3>Quick Information</h3> <ul><li><strong>Keys:</strong> You have two keys - both have square ends. The apartment key is branded
 			with ABUS.</li> <li><strong>Location:</strong> Our apartment is on the second floor, right side. Please note there&#39;s
 			no elevator.</li> <li><strong>Wi-Fi:</strong> Network name: <strong>Martin</strong>. Access data is on the telephone
@@ -12,13 +12,13 @@ import{s as r,n as t}from"../chunks/scheduler.Bmg8oFKD.js";import{S as s,i as l,
 			7 AM to 8 PM, closed on Sundays and holidays).</li> <li><strong>Restaurants:</strong> Check out our
 			<a href="/en/restaurants">restaurant recommendations</a> for great dining options.</li> <li><strong>Transportation:</strong> The Lindau-Insel train station is a 5-minute walk away. Visit
 			our <a href="/en/transportation">transportation guide</a> for more details.</li> <li><strong>Attractions:</strong> Don&#39;t miss the
-			<a href="https://www.lindau.de/lindau-entdecken/sehenswuerdigkeiten/">sights</a>
+			<a href="https://www.lindau.de/en/discover-lindau/attractions/">sights</a>
 			and
-			<a href="https://www.lindau.de/lindau-entdecken/bodensee/ausflugsziele-am-bodensee/">excursion destinations</a> Lindau has to offer.</li> <li><strong>Wellness:</strong> Visit the
+			<a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/">excursion destinations</a> Lindau has to offer.</li> <li><strong>Wellness:</strong> Visit the
 			<a href="https://www.therme-lindau.com/">Lindau-Therme</a> for a relaxing spa experience.</li> <li><strong>Drinking Water Fountains:</strong> Throughout the region (Germany, Austria, Switzerland, Liechtenstein), you&#39;ll find numerous drinking water fountains. The water is safe to drink unless you see a sign that says &quot;Kein Trinkwasser&quot; (No drinking water).</li> <li><strong>Hiking and Biking:</strong> For tips and inspiration on exploring the Lake Constance
 			region:
 			<ul><li>Follow our Instagram: <a href="https://www.instagram.com/lindau_island" target="_blank" rel="noopener noreferrer">@lindau_island</a></li> <li>Check out our YouTube channel: <a href="https://www.youtube.com/@lindau-island" target="_blank" rel="noopener noreferrer">Lindau and Lake Constance</a></li></ul></li></ul> <h3>Need Help?</h3> <p>If you have any questions about the neighborhood or the house, feel free to ask our neighbors
 		Adelina and Sander (apartment directly opposite ours). They&#39;re very friendly and knowledgeable
 		about the area.</p> <hr/> <p>We wish you an unforgettable stay in Lindau. If you have any questions, we&#39;re always available
 		to help.</p> <p>Best regards,<br/>
-		Maria &amp; Tim</p>`;return{c(){e=h("div"),e.innerHTML=n,this.h()},l(a){e=d(a,"DIV",{class:!0,"data-svelte-h":!0}),u(e)!=="svelte-18cid8p"&&(e.innerHTML=n),this.h()},h(){p(e,"class","container")},m(a,o){g(a,e,o)},p:t,i:t,o:t,d(a){a&&c(e)}}}class y extends s{constructor(e){super(),l(this,e,null,m,r,{})}}export{y as component};
+		Maria &amp; Tim</p>`;return{c(){e=h("div"),e.innerHTML=n,this.h()},l(a){e=d(a,"DIV",{class:!0,"data-svelte-h":!0}),u(e)!=="svelte-t2h9gp"&&(e.innerHTML=n),this.h()},h(){p(e,"class","container")},m(a,i){c(a,e,i)},p:t,i:t,o:t,d(a){a&&g(e)}}}class y extends s{constructor(e){super(),l(this,e,null,m,r,{})}}export{y as component};
