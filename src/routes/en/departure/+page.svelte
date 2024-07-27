@@ -16,7 +16,7 @@
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-4">
-            <label for="task-4">If you used the coffee machine, make sure you clean it (brew group, milk frother, and milk container).</label>
+            <label for="task-4">If you used the coffee machine, make sure you clean it (surface, brew group, milk frother, and milk container).</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-5">
