@@ -5,7 +5,8 @@ const routeTranslations = {
       'Restaurants': 'Restaurants',
       'Excursions': 'Excursions',
       'Trash & Recycling': 'Trash & Recycling',
-      'Before You Leave': 'Before You Leave'
+      'Before You Leave': 'Before You Leave',
+      'House Rules': 'House Rules'
     },
     'de': {
       'Welcome': 'Willkommen',
@@ -61,6 +62,10 @@ const routeTranslations = {
     {
       'title': 'Before You Leave',
       'url': '/departure'
+    },
+    {
+      'title': 'House Rules',
+      'url': '/house-rules'
     }
   ];
   
