@@ -2,7 +2,7 @@
 	<h1>Willkommen in unserer Wohnung in Lindau!</h1>
 
 	<p>
-		Wir freuen uns sehr, dass ihr unsere Wohnung für euren Aufenthalt in Lindau gewählt habt. Wir hoffen, ihr fühlt euch hier genauso wohl wie wir und wünschen euch eine wunderbare Zeit am Bodensee!
+		Wir freuen uns, dass ihr unsere Wohnung für euren Aufenthalt in Lindau gewählt habt. Wir hoffen, dass ihr euch hier genauso wohlfühlt wie wir und wünschen euch eine wunderbare Zeit am Bodensee!
 	</p>
 
 	<h3>Schnelle Informationen</h3>
@@ -11,7 +11,7 @@
 			<strong>Schlüssel:</strong> Ihr habt zwei Schlüssel - beide haben quadratische Enden. Der Wohnungsschlüssel ist mit ABUS gekennzeichnet.
 		</li>
 		<li>
-			<strong>Lage:</strong> Unsere Wohnung befindet sich im zweiten Stock, rechte Seite. Bitte beachtet, dass es keinen Aufzug gibt.
+			<strong>Lage:</strong> Unsere Wohnung befindet sich im zweiten Stock, auf der rechten Seite. Bitte beachtet, dass es keinen Aufzug gibt.
 		</li>
 		<li>
 			<strong>WLAN:</strong> Netzwerkname: <strong>Martin</strong>. Die Zugangsdaten befinden sich auf dem Telefonschrank im Flur.
@@ -20,14 +20,15 @@
 
 	<h3>Während des Aufenthalts</h3>
 	<p>
-		Wir haben einige Snacks und Getränke für euch im Kühlschrank vorbereitet. In der Küche gibt es auch Haferflocken und Toppings für die Zubereitung eines Haferbreis, Porridge oder Müsli-Frühstücks. Die Kaffeemaschine ist einsatzbereit. Es wäre toll, wenn ihr die Kaffeemaschine nach jedem Gebrauch durch Reinigen der Brühgruppe, des Milchaufschäumers und des Milchbehälters pflegen könntet.
+		Wir haben einige Snacks und Getränke für euch im Kühlschrank vorbereitet. In der Küche gibt es auch Hafer und Toppings, um ein Haferflocken-, Porridge- oder Müsli-Frühstück zuzubereiten.
+		Die Kaffeemaschine ist einsatzbereit. Es wäre toll, wenn ihr die Kaffeemaschine nach jedem Gebrauch durch Reinigen der Brühgruppe, des Milchaufschäumers und des Milchbehälters pflegen könntet.
 	</p>
 
 	<h3>Wichtige Hinweise</h3>
 	<ul>				
 		<li>Zusätzliches Toilettenpapier befindet sich im Badezimmerschrank, falls benötigt.</li>
-		<li>Regenschirme stehen euch im Flurkleiderschrank zur Verfügung.</li>
-		<li>Zusätzliche Handtücher befinden sich im Schrank im Raum zwischen der Küche und dem Hauptschlafzimmer.</li>
+		<li>Im Flurschrank stehen Regenschirme zur Verfügung.</li>
+		<li>Zusätzliche Handtücher befinden sich im Schrank, im Raum zwischen der Küche und dem Hauptschlafzimmer.</li>
 		<li>Schaut euch unsere <a href="/de/house-rules">Hausregeln</a> an, um Richtlinien zur Pflege der Wohnung zu erhalten.</li>
 	</ul>
 
@@ -37,16 +38,17 @@
 	</p>
     <h3>Trinkwasser und Leitungswasser</h3>
 	<p>
-		<strong>Leitungswasser:</strong> In Deutschland, einschließlich Lindau, ist das Trinkwasser sicher. Tatsächlich kommt das Wasser in Lindau direkt aus dem Bodensee und wird sorgfältig ohne Chemikalien aufbereitet. Ihr müsst also kein Flaschenwasser kaufen.
+		<strong>Leitungswasser:</strong> in Deutschland, einschließlich Lindau, ist sicher zu trinken. Tatsächlich kommt das Wasser in Lindau direkt aus dem Bodensee und wird ohne Chemikalien sorgfältig aufbereitet. Ihr müsst also kein Flaschenwasser kaufen.
 	</p>
-	<p><strong>Trinkwasserbrunnen:</strong> In der gesamten Region (Deutschland, Österreich, Schweiz, Liechtenstein) findet ihr zahlreiche Trinkwasserbrunnen. Das Wasser ist sicher zu trinken, es sei denn, es gibt ein Schild mit der Aufschrift "Kein Trinkwasser".</p>
+	<p><strong>Trinkwasserbrunnen:</strong> In der gesamten Region (Deutschland, Österreich, Schweiz, Liechtenstein) findet ihr zahlreiche Trinkwasserbrunnen. Das Wasser ist sicher zu trinken, es sei denn, ihr seht ein Schild mit der Aufschrift "Kein Trinkwasser".</p>
 	<h3>Einkaufen und Essen</h3>
 	<ul>
 		<li>
-			<strong>Einkaufen:</strong> Wir empfehlen Netto am Marktplatz 5 oder Rewe in der Zeppelinstraße 6 (geöffnet von 7 Uhr bis 20 Uhr, sonntags und an Feiertagen geschlossen).
+			<strong>Einkaufen:</strong> Wir empfehlen Netto am Marktplatz 5 oder Rewe in der Zeppelinstraße 6 (geöffnet von 7 bis 20 Uhr, sonntags und an Feiertagen geschlossen).
 		</li>
 		<li>
-			<strong>Restaurants:</strong> Schaut euch unsere <a href="/de/restaurants">Restaurantempfehlungen</a> für Essensmöglichkeiten an.
+			<strong>Restaurants:</strong> Schaut euch unsere
+			<a href="/de/restaurants">Restaurantempfehlungen</a> für Essensmöglichkeiten an.
 		</li>
 		<li>
 			<strong>Transport:</strong> Der Bahnhof Lindau-Insel ist nur 5 Gehminuten entfernt. Besucht unseren <a href="/de/transportation">Transportführer</a> für weitere Details.
@@ -56,7 +58,7 @@
 	<p>Schaut euch den <a href="/de/excursions">Ausflugsführer</a> an, um Empfehlungen für Aktivitäten und Sehenswürdigkeiten in Lindau und Umgebung zu erhalten.</p>
 	<h3>Braucht ihr Hilfe?</h3>
 	<p>
-		Wenn ihr Fragen zur Nachbarschaft oder zum Haus habt, könnt ihr gerne unsere Nachbarn Adelina und Sander (Wohnung direkt gegenüber unserer) fragen. Sie sind sehr freundlich und kennen sich gut in der Gegend aus.
+		Wenn ihr Fragen zur Nachbarschaft oder zum Haus habt, fragt gerne unsere Nachbarn Adelina und Sander (Wohnung direkt gegenüber unserer). Sie sind sehr freundlich und kennen sich gut in der Gegend aus.
 	</p>
 
 	<hr />

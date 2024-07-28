@@ -4,7 +4,7 @@
 	<section>
 		<h2>Überblick</h2>
 		<p>
-			Lindau bietet eine Vielzahl von Transportmöglichkeiten, um die Stadt und ihre Umgebung zu erkunden. Von öffentlichen Verkehrsmitteln bis hin zu Fahrradverleihen – hier ist alles, was ihr wissen müsst, um euch effizient fortzubewegen.
+			Lindau bietet eine Vielzahl von Transportmöglichkeiten, um die Stadt und ihre Umgebung zu erkunden. Von öffentlichen Verkehrsmitteln bis hin zu Fahrradverleihen - hier findest du alles, was du wissen musst, um dich effizient fortzubewegen.
 		</p>
 	</section>
 	<section>
@@ -22,8 +22,8 @@
 			<li>Österreichische Bundesbahnen (ÖBB)</li>
 		</ul>
 
-		<h4>Ziele</h4>
-		<p>Vom Bahnhof Lindau-Insel könnt ihr verschiedene Ziele in mehreren Ländern erreichen:</p>
+		<h4>Reiseziele</h4>
+		<p>Vom Bahnhof Lindau-Insel kannst du verschiedene Ziele in mehreren Ländern erreichen:</p>
 
 		<h5>Österreich:</h5>
 		<ul>
@@ -50,7 +50,7 @@
 		<p>Verbindungen in die Schweiz und nach Liechtenstein sind über Österreich verfügbar.</p>
 
 		<h4>Fahrpläne und Tickets</h4>
-		<p>Für die aktuellsten Fahrpläne und um Tickets zu kaufen, besucht bitte:</p>
+		<p>Für die aktuellsten Fahrpläne und um Tickets zu kaufen, besuche bitte:</p>
 		<ul>
 			<li>
 				Deutsche Bahn (DB): <a
@@ -72,7 +72,7 @@
 	<section>
 		<h2>Schiffsverbindungen</h2>
 		<p>
-			Erkundet den Bodensee mit verschiedenen Fährdiensten und Vergnügungskreuzfahrten. Der folgende Fahrplan gilt vom 18. Mai bis 8. September:
+			Erkunde den Bodensee mit verschiedenen Fährdiensten und Vergnügungskreuzfahrten. Der folgende Fahrplan gilt vom 18. Mai bis 8. September:
 		</p>
 
 		<div class="boat-schedule">
@@ -150,13 +150,13 @@
 				<strong>Panorama-Fahrt:</strong> Eine landschaftlich reizvolle Tour rund um den See, die wunderschöne Ausblicke auf die Umgebung bietet.
 			</li>
 			<li>
-				<strong>Drei-Länder-Rundfahrt:</strong> Eine Reise, die euch durch die Gewässer von Deutschland, Österreich und der Schweiz führt.
+				<strong>Drei-Länder-Rundfahrt:</strong> Eine Reise, die dich durch die Gewässer von Deutschland, Österreich und der Schweiz führt.
 			</li>
 			<li>
 				<strong>Bregenzer Bucht:</strong> Eine Fahrt zur österreichischen Seite des Sees, die die Stadt Bregenz besucht.
 			</li>
 			<li>
-				<strong>Abendstimmung Bregenz:</strong> Eine abendliche Kreuzfahrt nach Bregenz, perfekt, um den Sonnenuntergang über dem See zu genießen.
+				<strong>Abendstimmung Bregenz:</strong> Eine Abendkreuzfahrt nach Bregenz, perfekt, um den Sonnenuntergang über dem See zu genießen.
 			</li>
 		</ul>
 
@@ -167,20 +167,20 @@
 				Abfahrtsorte sind entweder der Hafen Lindau oder die Lindau Spielbank.
 			</li>
 			<li>Einige Routen verkehren täglich, andere von Dienstag bis Sonntag und an Feiertagen.</li>
-			<li>Die Dauer variiert je nach Route von 52 Minuten bis 2 Stunden und 25 Minuten.</li>
+			<li>Die Dauer variiert je nach Route von 52 Minuten bis zu 2 Stunden und 25 Minuten.</li>
 			<li>
 				<strong
 					>Internationale Fahrten (nach Österreich und in die Schweiz) erfordern einen Reisepass oder Personalausweis.</strong
-				> Bitte stellt sicher, dass ihr die notwendigen Ausweisdokumente vor dem Einsteigen dabei habt.
+				> Bitte stelle sicher, dass du die erforderlichen Ausweispapiere vor dem Einsteigen dabei hast.
 			</li>
 		</ul>
 
 		<p>
-			Für die aktuellsten Informationen, Ticketpreise und um Tickets zu kaufen, informiert euch bitte bei den lokalen Schiffsanbietern oder besucht das Touristeninformationszentrum in Lindau.
+			Für die aktuellsten Informationen, Ticketpreise und um Tickets zu kaufen, wende dich bitte an die lokalen Schiffsbetreiber oder besuche das Touristeninformationszentrum in Lindau.
 		</p>
 
 		<p>
-			Für weitere Details zu Bootstouren und Erlebnissen auf dem Bodensee besucht die <a
+			Für weitere Details zu Bootsausflügen und Erlebnissen auf dem Bodensee besuche die <a
 				href="https://www.bsb.de/de/bodensee-erlebnisse/rundfahrten/lindau#"
 				target="_blank"
 				rel="noopener noreferrer">offizielle Website der Bodensee-Schiffsbetriebe (BSB)</a
@@ -191,7 +191,7 @@
 	<section>
 		<h2>Fahrradverleih</h2>
 		<p>
-			Lindau und seine Umgebung mit dem Fahrrad zu erkunden, ist eine beliebte und angenehme Möglichkeit, die Gegend zu erleben. Es gibt zwei Haupt-Fahrradverleihgeschäfte in Lindau, die sowohl normale Fahrräder als auch E-Bikes anbieten:
+			Die Erkundung von Lindau und seiner Umgebung mit dem Fahrrad ist eine beliebte und angenehme Möglichkeit, die Gegend zu erleben. Es gibt zwei Haupt-Fahrradverleihgeschäfte in Lindau, die sowohl normale Fahrräder als auch E-Bikes anbieten:
 		</p>
 
 		<div class="rental-shop">
@@ -204,7 +204,7 @@
 				>
 			</p>
 			<p>
-				Fahrrad Unger bietet eine Vielzahl von Fahrrädern, einschließlich normaler Fahrräder und E-Bikes, die sich hervorragend für die Erkundung von Lindau und der Umgebung eignen.
+				Fahrrad Unger bietet eine Reihe von Fahrrädern, darunter normale Fahrräder und E-Bikes, die sich hervorragend eignen, um Lindau und die Umgebung zu erkunden.
 			</p>
 		</div>
 
@@ -218,16 +218,16 @@
 				>
 			</p>
 			<p>
-				Rad Insel bietet verschiedene Optionen für den Fahrradverleih, einschließlich traditioneller Fahrräder und E-Bikes, perfekt für Touren in der Bodenseeregion.
+				Rad Insel bietet verschiedene Optionen für den Fahrradverleih, einschließlich traditioneller Fahrräder und E-Bikes, perfekt für Touren durch die Bodenseeregion.
 			</p>
 		</div>
 		<p>
-			Beide Verleihgeschäfte bieten Optionen für Kurzzeit- und Langzeitmieten. Es wird empfohlen, deren Websites zu überprüfen oder sie direkt zu kontaktieren, um aktuelle Preise, Verfügbarkeit und eventuelle Sonderangebote zu erfahren.
+			Beide Verleihgeschäfte bieten Optionen für Kurz- und Langzeitmieten. Es wird empfohlen, ihre Websites zu besuchen oder sie direkt zu kontaktieren, um aktuelle Preise, Verfügbarkeit und eventuelle Sonderangebote zu erfahren.
 		</p>
         <div class="bodensee-radweg">
             <p>
               Für Informationen über beliebte Radwege und Fahrradkarten haben wir einige Details im 
-              <a href="/de/excursions">Ausflüge</a> Abschnitt vorbereitet. Der berühmte Bodensee-Radweg startet direkt vor unserer Haustür – folgt einfach den Schildern!
+              <a href="/de/excursions">Ausflüge</a> Abschnitt vorbereitet. Der berühmte Bodensee-Radweg startet direkt vor unserer Haustür — folge einfach den Schildern!
             </p>
             <img src="/images/Bodensee_Radweg_sign.svg" alt="Bodensee-Radweg Logo" class="bodensee-logo" />
           </div>

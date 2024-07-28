@@ -21,17 +21,8 @@
 			<strong> Visit Sankt Gallen:</strong> Sankt Gallen is a beautiful city in Switzerland. You can take a train to get there. The city is known for its beautiful old town and the Abbey of Saint Gall with its fantastic library.
 		</li>
 		<li>
-			<strong>Check the official websites for more information:</strong>
-			<strong>Attractions:</strong> Don't miss the
-			<a href="https://www.lindau.de/en/discover-lindau/attractions/">sights</a>
-			and
-			<a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/"
-				>excursion destinations</a
-			> Lindau has to offer.
-		</li>
-		<li>
 			<strong>Wellness:</strong> Visit the
-			<a href="https://www.therme-lindau.com/">Lindau-Therme</a> for a relaxing spa experience.
+			<a href="https://www.therme-lindau.com/">Lindau-Therme</a> for a relaxing spa experience. It offer a variety of saunas, steam baths, and pools, as well as a great view of the lake and the mountains.
 		</li>        		
 	</ul>
     <h2>Outdoor Activities</h2>
@@ -63,9 +54,9 @@
     <p>These resources are regularly updated with new content to help you make the most of your outdoor adventures during your stay.</p>
     <h2>Official resources</h2>
     <ul>
-        <li><a href="https://www.bodensee.eu/en">Lake Constance - Official Website</a></li>
+        <li><a href="https://www.bodensee.eu/">Lake Constance - Official Website</a></li>
         <li><a href="https://www.lindau.de/">Lindau - Official Website</a></li>
-        <li><a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/">Must See at lake constance</a></li>
-        <li><a href="https://www.lindau.de/en/discover-lindau/attractions/">Lindau Sights</a></li>
+        <li><a href="https://www.lindau.de/lindau-entdecken/bodensee/ausflugsziele-am-bodensee/">Must See at lake constance</a></li>
+        <li><a href="https://www.lindau.de/lindau-entdecken/sehenswuerdigkeiten/">Lindau Sights</a></li>
     </ul>
 </div>

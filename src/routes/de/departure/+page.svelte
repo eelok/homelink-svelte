@@ -1,6 +1,6 @@
 <div class="container">
     <h1>Abreise-Checkliste</h1>    
-    <p>Danke, dass ihr euch für unser Apartment entschieden habt! Wir hoffen, ihr hattet eine wunderbare Zeit. Um eure Abreise reibungslos zu gestalten, haben wir diese praktische Checkliste vorbereitet. Wir wären euch sehr dankbar, wenn ihr euch einen Moment Zeit nehmt, um diese Punkte durchzugehen:</p>
+    <p>Vielen Dank, dass ihr euch für unser Apartment entschieden habt! Wir hoffen, ihr hattet eine wunderbare Zeit. Um eure Abreise reibungslos zu gestalten, haben wir diese praktische Checkliste vorbereitet. Wir wären euch sehr dankbar, wenn ihr euch einen Moment Zeit nehmen könntet, um diese Punkte durchzugehen:</p>
     <form>
         <div class="checkbox-container">
             <input type="checkbox" id="task-1">
@@ -12,31 +12,31 @@
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-3">
-            <label for="task-3">Die Bettwäsche von den Matratzen entfernen und auf jedes Bett legen. Ihr müsst sie nicht waschen.</label>
+            <label for="task-3">Die Bettwäsche von den Matratzen entfernen und auf jedem Bett liegen lassen. Ihr müsst sie nicht waschen.</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-4">
-            <label for="task-4">Falls ihr die Kaffeemaschine benutzt habt, stellt sicher, dass ihr sie reinigt (Oberfläche, Brühgruppe, Milchaufschäumer und Milchbehälter).</label>
+            <label for="task-4">Wenn ihr die Kaffeemaschine benutzt habt, stellt bitte sicher, dass ihr sie reinigt (Oberfläche, Brühgruppe, Milchaufschäumer und Milchbehälter).</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-5">
-            <label for="task-5">Beladet die Spülmaschine mit benutztem Geschirr. Startet die Spülmaschine, bevor ihr geht.</label>
+            <label for="task-5">Den Geschirrspüler mit benutztem Geschirr beladen. Startet den Geschirrspüler, bevor ihr geht.</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-6">
-            <label for="task-6">Reinigt alle Oberflächen in der Küche und im Badezimmer. Zum Beispiel kann die Tür der Spülmaschine fettig werden, wenn ihr sie während des Kochens benutzt.</label>
+            <label for="task-6">Alle Oberflächen in der Küche und im Badezimmer reinigen. Zum Beispiel kann die Tür des Geschirrspülers fettig werden, wenn ihr ihn während des Kochens benutzt.</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-7">
-            <label for="task-7">Stellt alle Gegenstände an ihren ursprünglichen Platz zurück.</label>
+            <label for="task-7">Alle Gegenstände an ihren ursprünglichen Platz zurückstellen.</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-8">
-            <label for="task-8">Meldet eventuelle Schäden, die während eures Aufenthalts entstanden sind.</label>
+            <label for="task-8">Jegliche versehentliche Schäden melden, die während eures Aufenthalts entstanden sind.</label>
         </div>
         <div class="checkbox-container">
             <input type="checkbox" id="task-9">
-            <label for="task-9">Gebt die Schlüssel in den Schlüsselsafe zurück, indem ihr denselben Code verwendet, den ihr zum Abholen benutzt habt.</label>
+            <label for="task-9">Die Schlüssel mit dem gleichen Code, den ihr zum Abholen benutzt habt, in den Schlüsselsafe zurücklegen.</label>
         </div>
     </form>
     <p>Bitte hinterlasst das Apartment in dem Zustand, in dem ihr es bei eurer Ankunft vorgefunden habt. Dies hilft uns, das Apartment zu pflegen und sorgt für ein angenehmes Erlebnis für alle Gäste.</p>

@@ -8,7 +8,7 @@
 			<a href="https://maps.app.goo.gl/1EhnHmXCNYVgyHFC8" target="_blank">Auf der Karte ansehen</a>.
 		</li>
         <li class="list-group-item">
-            <a href="https://www.facebook.com/ThungthongThairestaurant.Lindau">Restaurant Thung Thong</a> - Großartiges thailändisches Essen, bietet Mittagsmenüs und leckeres Pad Thai.
+            <a href="https://www.facebook.com/ThungthongThairestaurant.Lindau">Restaurant Thung Thong</a> - Großartiges Thai-Essen, bietet Mittagsmenüs und leckeres Pad Thai.
             <a href="https://maps.app.goo.gl/7DRsAMk5UZsdPvBj7" target="_blank">Auf der Karte ansehen</a>.
         </li>
         <li class="list-group-item">
@@ -16,7 +16,7 @@
             <a href="https://maps.app.goo.gl/hBZtB3ihRkHQysGJ7" target="_blank">Auf der Karte ansehen</a>.
         </li>
         <li class="list-group-item">
-            <a href="https://streetkhazana.de/">Restaurant Street Khazana</a> - Dieses Restaurant bietet indisches Street Food. Probiert die Dosas, sie sind ihre Spezialität.
+            <a href="https://streetkhazana.de/">Restaurant Street Khazana</a> - Dieses bietet indisches Street Food. Probier die Dosas, sie sind ihre Spezialität.
             <a href="https://maps.app.goo.gl/ow6AwjtQjF3NDupAA" target="_blank">Auf der Karte ansehen</a>.
         </li>
         <li class="list-group-item">
@@ -40,7 +40,7 @@
             <a href="https://maps.app.goo.gl/gBjeAyWZDUTP3Fpy7" target="_blank">Auf der Karte ansehen</a>.
         </li>
         <li class="list-group-item">
-            <a href="https://www.hotelweisseskreuz.at/goldener-hirschen/">Goldener Hirschen</a> - Wenn ihr ein traditionelles österreichisches Restaurant sucht, seid ihr hier richtig. Käsespätzle ist ein Muss.
+            <a href="https://www.hotelweisseskreuz.at/goldener-hirschen/">Goldener Hirschen</a> - Wenn ihr ein traditionelles österreichisches Restaurant sucht, ist dies der richtige Ort. Käsespätzle ist ein Muss.
             <a href="https://maps.google.com?q=Bregenz,Goldener%20Hirschen" target="_blank">Auf der Karte ansehen</a>.
         </li>
 		<li class="list-group-item">
@@ -54,6 +54,6 @@
     </ul>
 	<h2>Sternerestaurants</h2>
 	<p>
-		Wenn ihr ein besonderes kulinarisches Erlebnis sucht oder einen besonderen Anlass feiert, gibt es mehrere mit Michelin-Sternen ausgezeichnete Restaurants in der Region. <a href="https://guide.michelin.com/de/de/bayern/lindau/restaurants?showMap=true&sort=distance" target="_blank">Schaut einfach direkt auf der Michelin Guide Website nach</a>.
+		Wenn ihr nach einem besonderen kulinarischen Erlebnis sucht oder einen besonderen Anlass feiert, gibt es mehrere Sternerestaurants in der Region. <a href="https://guide.michelin.com/en/de/bayern/lindau/restaurants?showMap=true&sort=distance" target="_blank">Schaut einfach direkt auf der Michelin Guide Website nach</a>.
 	</p>
 </div>

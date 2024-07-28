@@ -1,9 +1,9 @@
 <div class="container">
     <h1>Anreise</h1>
     <section>
-		<h2>Anreise von den nahegelegenen Flughäfen</h2>
+		<h2>Anreise von nahegelegenen Flughäfen</h2>
 		<p>
-			Wenn ihr mit dem Flugzeug ankommt, hier sind die nächsten Flughäfen und wie ihr von dort nach Lindau kommt:
+			Wenn ihr mit dem Flugzeug ankommt, hier sind die nächstgelegenen Flughäfen und wie ihr von dort nach Lindau kommt:
 		</p>
 
 		<h3>Flughafen München (MUC)</h3>
@@ -19,9 +19,9 @@
 			</ul>
 			<li>Alternative: ECE-Zug</li>
 			<ul>
-				<li>Etwas schneller (etwa 30 Minuten) aber weniger häufig (2-Stunden-Intervalle)</li>
+				<li>Etwas schneller (ca. 30 Minuten), aber weniger häufig (alle 2 Stunden)</li>
 				<li>Sparpreis: Ab 30€ pro Person, an einen bestimmten Zug gebunden</li>
-				<li>Flexibles Ticket: Ab 60€ pro Person, kann auf jedem ECE-Zug für die Strecke genutzt werden</li>
+				<li>Flexibles Ticket: Ab 60€ pro Person, kann für jede ECE-Verbindung auf der Strecke genutzt werden</li>
 			</ul>
 		</ul>
 
