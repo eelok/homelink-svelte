@@ -22,35 +22,33 @@
 		</li>
 	</ul>
 
-	<h3>Apartment Highlights</h3>
+	<h3>During the stay</h3>
 	<p>
-		Our apartment offers a comfortable living space with a fully equipped kitchen, a cozy bedroom,
-		and a balcony with a table and chairs. You'll find clean bed linen, towels, and everything you
-		need for a pleasant stay. Feel free to use the ingredients for making muesli and items in the
-		fridge.
+		We prepared some snacks and drinks for you in the fridge. There are oat and toppings in the kitchen as wel for preparing an oatmeal, porridge, or muesli breakfast.
+		The coffee machine is ready for use. Would be great if you maintain the coffee machine by cleaning the brew group, milk frother, and milk container after each use.
 	</p>
 
 	<h3>Important Notes</h3>
-	<ul>
-		<li>Please remove your shoes when entering the apartment.</li>
-		<li>You're welcome to use the Wi-Fi printer in the hallway.</li>
+	<ul>				
 		<li>Additional toilet paper is in the bathroom cabinet if needed.</li>
 		<li>Umbrellas are available in the hallway wardrobe for your use.</li>
-		<li>Please do not wash knives, pots, and pans in the dishwasher.</li>
+		<li>Additional towels are in the cabinet, in the room between the kitchen and the main bedroom.</li>
+		<li>Check our <a href="/en/house-rules">house rules</a> for guidelines on maintaining the apartment.</li>
 	</ul>
 
 	<h3>Garbage and Recycling</h3>
 	<p>
 		You'll find bins for organic waste, residual waste, plastics, and paper in the kitchen. Larger
-		garbage bags can be disposed of in the courtyard. The garbage room next to the basement can be
-		opened with your front door key.
+		garbage bags can be disposed of in the garbage room in the courtyard. You can open the garbage room
+		with the house main door key.
 	</p>
-    <h3>Tap Water</h3>
+    <h3>Drinking Water and Tap Water</h3>
 	<p>
-		Tap water in Germany, including Lindau, is safe to drink. In fact, Lindau's water comes directly
+		<strong>Tap water:</strong> in Germany, including Lindau, is safe to drink. In fact, Lindau's water comes directly
 		from Lake Constance and undergoes careful treatment without chemicals. Thus you don't have to buy bottled water.
 	</p>
-	<h3>Local Tips</h3>
+	<p><strong>Drinking Water Fountains:</strong> Throughout the region (Germany, Austria, Switzerland, Liechtenstein), you'll find numerous drinking water fountains. The water is safe to drink unless you see a sign that says "Kein Trinkwasser" (No drinking water).</p>
+	<h3>Grocery Shopping and Dining</h3>
 	<ul>
 		<li>
 			<strong>Shopping:</strong> We recommend Netto at Marktplatz 5 or Rewe at Zeppelinstraße 6 (open
@@ -58,46 +56,15 @@
 		</li>
 		<li>
 			<strong>Restaurants:</strong> Check out our
-			<a href="/en/restaurants">restaurant recommendations</a> for great dining options.
+			<a href="/en/restaurants">restaurant recommendations</a> for dining options.
 		</li>
 		<li>
 			<strong>Transportation:</strong> The Lindau-Insel train station is a 5-minute walk away. Visit
 			our <a href="/en/transportation">transportation guide</a> for more details.
-		</li>
-		<li>
-			<strong>Attractions:</strong> Don't miss the
-			<a href="https://www.lindau.de/en/discover-lindau/attractions/">sights</a>
-			and
-			<a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/"
-				>excursion destinations</a
-			> Lindau has to offer.
-		</li>
-		<li>
-			<strong>Wellness:</strong> Visit the
-			<a href="https://www.therme-lindau.com/">Lindau-Therme</a> for a relaxing spa experience.
-		</li>
-        <li><strong>Drinking Water Fountains:</strong> Throughout the region (Germany, Austria, Switzerland, Liechtenstein), you'll find numerous drinking water fountains. The water is safe to drink unless you see a sign that says "Kein Trinkwasser" (No drinking water).</li>
-		<li>
-			<strong>Hiking and Biking:</strong> For tips and inspiration on exploring the Lake Constance
-			region:
-			<ul>
-				<li>
-					Follow our Instagram: <a
-						href="https://www.instagram.com/lindau_island"
-						target="_blank"
-						rel="noopener noreferrer">@lindau_island</a
-					>
-				</li>
-				<li>
-					Check out our YouTube channel: <a
-						href="https://www.youtube.com/@lindau-island"
-						target="_blank"
-						rel="noopener noreferrer">Lindau and Lake Constance</a
-					>
-				</li>
-			</ul>
-		</li>
+		</li>		
 	</ul>
+	<h3>What to do</h3>
+	<p>Check the <a href="/en/excursions">excursions guide</a> for recommendations on activities and places to visit in Lindau and the surrounding area.</p>
 	<h3>Need Help?</h3>
 	<p>
 		If you have any questions about the neighborhood or the house, feel free to ask our neighbors

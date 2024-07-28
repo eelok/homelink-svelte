@@ -13,12 +13,12 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const sourceLanguage = 'en';
-const targetLanguages = ['de', 'es'];
+const targetLanguages = ['de'];
 const sourceDir = join(__dirname, 'src', 'routes', sourceLanguage);
 const excludedFiles = ['layout.svelte', '+layout.svelte', '+page.js', '+layout.js'];
 
 async function translateContent(content, targetLanguage) {
-    const prompt = `Translate the following English text to ${targetLanguage}. Use informal friendly language. Assume you communicate with a couple. Maintain the original formatting, including HTML tags, don't use code blocks:
+    const prompt = `Translate the following English text to ${targetLanguage}. In the urls replace the language with the target language (example: /en/transportation -> /de/transportation if current language is de), but not for global urls which start with https://. Use informal friendly language. Assume you communicate with a couple. Maintain the original formatting, including HTML tags, don't use code blocks:
   
   ${content}
   
@@ -27,7 +27,7 @@ async function translateContent(content, targetLanguage) {
     const completion = await openai.chat.completions.create({
       model: "gpt-4o",
       messages: [{"role": "user", "content": prompt}],
-      max_tokens: 2000,  // Adjust based on your content length
+      max_tokens: 4000,  // Adjust based on your content length
       temperature: 0.3,  // Lower temperature for more consistent translations
     });
   

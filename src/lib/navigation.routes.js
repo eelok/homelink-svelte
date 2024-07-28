@@ -6,7 +6,11 @@ const routeTranslations = {
       'Excursions': 'Excursions',
       'Trash & Recycling': 'Trash & Recycling',
       'Before You Leave': 'Before You Leave',
-      'House Rules': 'House Rules'
+      'House Rules': 'House Rules',
+      'Troubleshooting': 'Troubleshooting',
+      'Emergency': 'Emergency',
+      'Transportation': 'Transportation',
+      'Getting To': 'Getting To'
     },
     'de': {
       'Welcome': 'Willkommen',
@@ -14,23 +18,12 @@ const routeTranslations = {
       'Restaurants': 'Restaurants',
       'Excursions': 'Ausflüge',
       'Trash & Recycling': 'Müll & Recycling',
-      'Before You Leave': 'Vor der Abreise'
-    },
-    'es': {
-      'Welcome': 'Bienvenido',
-      'Coffee Machine': 'Máquina de Café',
-      'Restaurants': 'Restaurantes',
-      'Excursions': 'Excursiones',
-      'Trash & Recycling': 'Basura y Reciclaje',
-      'Before You Leave': 'Antes de Partir'
-    },
-    'it': {
-      'Welcome': 'Benvenuto',
-      'Coffee Machine': 'Macchina del Caffè',
-      'Restaurants': 'Ristoranti',
-      'Excursions': 'Escursioni',
-      'Trash & Recycling': 'Rifiuti e Riciclaggio',
-      'Before You Leave': 'Prima di Partire'
+      'Before You Leave': 'Vor der Abreise',
+      'House Rules': 'Hausregeln',
+      'Troubleshooting': 'Problembehebung',
+      'Emergency': 'Notfall',
+      'Transportation': 'Verkehrsmittel',
+      'Getting To': 'Anreise',
     }
   };
   
@@ -40,13 +33,14 @@ const routeTranslations = {
       'url': '/'
     },
     {
+      'title': 'Getting To',
+      'url': '/getting-to'
+    },
+
+    {
       'title': 'Transportation',
       'url': '/transportation'
-    },
-    {
-      'title': 'Coffee Machine',
-      'url': '/coffee-machine'
-    },
+    },   
     {
       'title': 'Restaurants',
       'url': '/restaurants'
@@ -60,22 +54,35 @@ const routeTranslations = {
       'url': '/garbage'
     },
     {
+      'title': 'House Rules',
+      'url': '/house-rules'
+    },
+    {
+      'title': 'Coffee Machine',
+      'url': '/coffee-machine'
+    },
+    {
+      'title': 'Troubleshooting',
+      'url': '/troubleshooting'
+    },
+    {
+      'title': 'Emergency',
+      'url': '/emergency'
+    },
+    {
       'title': 'Before You Leave',
       'url': '/departure'
     },
-    {
-      'title': 'House Rules',
-      'url': '/house-rules'
-    }
   ];
   
   export function getRoutes(lang) {
     // Default to English if the requested language is not available
-    const translations = routeTranslations[lang] || routeTranslations['en'];
+    const language = lang || 'en';
+    const translations = routeTranslations[language];
     
     return baseRoutes.map(route => ({
       ...route,
       title: translations[route.title] || route.title, // Fallback to English if translation is missing
-      url: `/en${route.url}`
+      url: `/${language}${route.url}`
     }));
   }

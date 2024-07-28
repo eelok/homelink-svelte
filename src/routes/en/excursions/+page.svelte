@@ -1,5 +1,40 @@
 <div class="container">
-    <h1>Excursions</h1>
+    <h1>What to do</h1>
+    <h2>Day Trips and Excursions</h2>
+    <ul>
+		<li>
+			<strong>Visit Meersburg:</strong> Take a boat trip to Meersburg and explore the historic town on the hill, surrounded by vineyards.
+		</li>
+		<li>
+			<strong>Visit Konstanz:</strong> Take a longer boat trip to Konstanz. Konstanz is the biggest city in the region and has a beautiful old town with rich history. It is also the biggest shopping city in the region.
+		</li>
+		<li>
+			<strong>Visit Bregenz:</strong> Bregenz is the closest town to Lindau in Austria. You can take a boat or a train to get there. Riding a bike is also a great option and offers a beautiful view of the lake. In Bregenz with the Pfänderbahn you can go up to the Pfänder mountain and enjoy a beautiful view of the lake and the surrounding mountains.
+		</li>
+		<li>
+			<strong>Visit Friedrichshafen:</strong> Friedrichshafen is known for its Zeppelin Museum and the Dornier Museum. You can take a boat or a train to get there.
+		</li>
+		<li>
+			<strong>Visit Mainau Island:</strong> Mainau Island is a beautiful flower island in Lake Constance. You can take a boat to get there.
+		</li>
+		<li>
+			<strong> Visit Sankt Gallen:</strong> Sankt Gallen is a beautiful city in Switzerland. You can take a train to get there. The city is known for its beautiful old town and the Abbey of Saint Gall with its fantastic library.
+		</li>
+		<li>
+			<strong>Check the official websites for more information:</strong>
+			<strong>Attractions:</strong> Don't miss the
+			<a href="https://www.lindau.de/en/discover-lindau/attractions/">sights</a>
+			and
+			<a href="https://www.lindau.de/en/discover-lindau/lakeconstance/attractions-at-lake-constance/"
+				>excursion destinations</a
+			> Lindau has to offer.
+		</li>
+		<li>
+			<strong>Wellness:</strong> Visit the
+			<a href="https://www.therme-lindau.com/">Lindau-Therme</a> for a relaxing spa experience.
+		</li>        		
+	</ul>
+    <h2>Outdoor Activities</h2>
     <p>Our region is a paradise for bikers and hikers, offering a variety of trails that cater to all levels of experience.</p>
     
     <h2>Bike Tours</h2>

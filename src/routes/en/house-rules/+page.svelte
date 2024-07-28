@@ -1,5 +1,5 @@
 <div class="container">
-    <h2>House Rules and Care Instructions</h2>
+    <h1>House Rules and Care Instructions</h1>
     <ul>
       <li>
         <strong>No smoking in the apartment or on the balcony.</strong>
@@ -42,12 +42,14 @@
         <p>This ensures a peaceful environment for neighbors and prevents potential damage to the apartment.</p>
       </li>
       <li>
-        <strong>Please water the plants according to the provided schedule.</strong>
-        <p>Regular watering keeps our plants healthy and maintains the apartment's pleasant atmosphere.</p>
+        <strong>Please water the plants if the soil is dry.</strong>
+        <p>Would be great if you could save our plants from drying out during your stay.</p>
       </li>
       <li>
         <strong>Leave the apartment in the same condition you found it upon arrival.</strong>
-        <p>This includes cleaning the surfaces, returning items to their original places, turning off the heating, and reporting any accidental damage. This makes it easier for us on our return and maintains trust within the Homelink community.</p>
+        <p>This includes cleaning the surfaces, returning items to their original places, turning off the heating, and reporting any accidental damage. This makes it easier for us on our return and maintains trust within the Homelink community.
+            For your convenience we prepared a <a href="/en/departure">departure checklist</a> to ensure you don't forget anything.
+        </p>
       </li>
     </ul>
   </div>
